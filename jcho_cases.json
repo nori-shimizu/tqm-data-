@@ -1,422 +1,395 @@
 {
-  "jcho1": {
-    "title": "多職種チームによる誤嚥性肺炎予防",
-    "hospital": "JCHO熊本総合病院",
-    "tags": ["f9", "f7", "f6"],
-    "icon": "fa-solid fa-lungs-virus",
-    "summary": "言語聴覚士中心の多職種チームが5カ年計画で地域全体の誤嚥性肺炎予防に取り組み、入院数と院内発症数を30%削減。特に口腔ケア往診介入群では発症率0%を達成。",
-    "details": {
-      "challenge": "増加する誤嚥性肺炎に対し、<strong class=\"text-rose-600\">院内の専門人材（呼吸器内科医、言語聴覚士）が不足</strong>していた。",
-      "objective": "地域全体で誤嚥性肺炎を阻止するため、①誤嚥性肺炎による入院者の阻止、②院内発症の阻止、③脳卒中病棟での発症阻止、という<strong class=\"text-teal-700\">3段階の目標を設定</strong>。",
-      "method": "<strong class=\"text-sky-800\">言語聴覚士をリーダーとする多職種チーム</strong>を結成。地域向け研修会、嚥下調整食の見直し、口腔ケアジェルの導入、<strong class=\"text-lime-800\">地域歯科連携による往診体制の構築</strong>などを5カ年計画で段階的に実施。",
-      "impact": "誤嚥性肺炎による入院者数および院内発症者数を<strong class=\"text-teal-700\">目標の30%削減を達成</strong>。特に、口腔ケア往診介入群では誤嚥性肺炎の発症率が<strong class=\"text-teal-700\">0%</strong>という顕著な成果を上げた。"
+    "jcho1": {
+        "title": "多職種チームによる誤嚥性肺炎予防",
+        "hospital": "JCHO熊本総合病院",
+        "tags": ["f9", "f7", "f2"],
+        "icon": "fa-solid fa-lungs-virus",
+        "summary": "院内の専門人材不足に対し、言語聴覚士をリーダーとする多職種チームを結成。5カ年計画で地域を巻き込んだ口腔ケアや研修会を実施し、誤嚥性肺炎による入院者数・院内発症数を目標の30%削減を達成。",
+        "details": {
+            "challenge": "増加する誤嚥性肺炎に対し、院内の専門人材（呼吸器内科医、言語聴覚士）が不足していた。",
+            "objective": "地域全体で誤嚥性肺炎を阻止するため、①誤嚥性肺炎による入院者の阻止、②院内発症の阻止、③脳卒中病棟での発症阻止、という3段階の目標を設定。",
+            "method": "言語聴覚士をリーダーとする<strong class=\"text-sky-800\">多職種チームを結成</strong>。地域向け研修会、嚥下調整食の見直し、口腔ケアジェルの導入、<strong class=\"text-lime-800\">地域歯科連携による往診体制の構築</strong>などを5カ年計画で段階的に実施。",
+            "impact": "誤嚥性肺炎による入院者数および院内発症者数を目標の<strong class=\"text-teal-700\">30%削減を達成</strong>。特に、口腔ケア往診介入群では誤嚥性肺炎の発症率が<strong class=\"text-teal-700\">0%</strong>という顕著な成果を上げた。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2020/06/R1_team_kumamoto.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2020/06/R1_team_kumamoto.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2020/06/R1_team_kumamoto.pdf"
-  },
-  "jcho2": {
-    "title": "ベンゾジアゼピン受容体作動薬の減薬への取組み",
-    "hospital": "JCHO北海道病院",
-    "tags": ["f12", "f11", "f9"],
-    "icon": "fa-solid fa-prescription-bottle-medical",
-    "summary": "多職種チーム「Team MBD」を結成し、BZD系薬剤の適正使用を推進。職員教育や市民啓発、処方モニタリングにより、入院・外来患者への処方数を大幅に減少させた。",
-    "details": {
-      "challenge": "ベンゾジアゼピン（BZD）系薬剤の<strong class=\"text-rose-600\">長期・多剤投与による依存や副作用</strong>が社会問題化しており、診療報酬減算の対象にもなっていた。",
-      "objective": "①新たな依存を作らない、②職員への教育・啓発、③代替療法の推進、④多剤併用患者の減薬、を<strong class=\"text-teal-700\">目標とした</strong>。",
-      "method": "<strong class=\"text-sky-800\">多職種チーム「Team MBD」</strong>を結成。院内研修会や市民向け健康教室の開催、<strong class=\"text-lime-800\">啓発ガイドブックの作成</strong>、処方内容のモニタリングと医師への助言などを実施。",
-      "impact": "職員の81%がBZD系薬剤への意識が変化。入院患者への処方数・錠数が大幅に減少し、外来でも<strong class=\"text-teal-700\">総数が14.5%減少</strong>した。"
+    "jcho2": {
+        "title": "ベンゾジアゼピン受容体作動薬の減薬への取組み",
+        "hospital": "JCHO北海道病院",
+        "tags": ["f12", "f11", "f9"],
+        "icon": "fa-solid fa-tablets",
+        "summary": "BZD系薬剤の依存・副作用問題に対し、多職種チーム「Team MBD」を結成。院内外への啓発活動や処方モニタリングを通じて、入院・外来患者への処方数を大幅に削減した。",
+        "details": {
+            "challenge": "ベンゾジアゼピン（BZD）系薬剤の長期・多剤投与による依存や副作用が社会問題化しており、診療報酬減算の対象にもなっていた。",
+            "objective": "①新たな依存を作らない、②職員への教育・啓発、③代替療法の推進、④多剤併用患者の減薬、を目標とした。",
+            "method": "<strong class=\"text-sky-800\">多職種チーム「Team MBD」</strong>を結成。院内研修会や市民向け健康教室の開催、啓発ガイドブックの作成、処方内容のモニタリングと医師への助言などを実施。",
+            "impact": "職員の81%がBZD系薬剤への意識が変化したと回答。入院患者への処方数・錠数が大幅に減少し、外来でも総数が<strong class=\"text-teal-700\">14.5%減少</strong>した。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2020/06/R1_team_hokkaidou.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2020/06/R1_team_hokkaidou.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2020/06/R1_team_hokkaidou.pdf"
-  },
-  "jcho3": {
-    "title": "透析センター稼働率改善への取り組み",
-    "hospital": "JCHO三島総合病院",
-    "tags": ["f9", "f11"],
-    "icon": "fa-solid fa-chart-line",
-    "summary": "常勤医師の退職による透析センターの稼働率低下に対し、多職種連携を強化して医師の負担を軽減。積極的な患者受け入れと送迎サービス試行により稼働率を改善した。",
-    "details": {
-      "challenge": "透析センターの<strong class=\"text-rose-600\">常勤医師が退職</strong>し、稼働率が低下していた。",
-      "objective": "医師のサポート体制を構築し、<strong class=\"text-teal-700\">稼働率を改善する</strong>。",
-      "method": "医師の負担を軽減するため<strong class=\"text-sky-800\">多職種連携を強化</strong>し、入院患者や新規導入患者を積極的に受け入れる体制を整備。また、患者の転出を防ぐために<strong class=\"text-lime-800\">送迎サービスを試行</strong>した。",
-      "impact": "これらの取り組みにより、<strong class=\"text-teal-700\">稼働率の改善に成功</strong>した。"
+    "jcho3": {
+        "title": "透析センター稼働率改善への取り組み",
+        "hospital": "JCHO三島総合病院",
+        "tags": ["f9", "f17"],
+        "icon": "fa-solid fa-person-circle-check",
+        "summary": "常勤医師の退職による透析センターの稼働率低下に対し、多職種連携を強化して医師の負担を軽減。積極的な患者受け入れ体制と送迎サービス試行により、稼働率の改善に成功した。",
+        "details": {
+            "challenge": "透析センターの常勤医師が退職し、稼働率が低下していた。",
+            "objective": "医師のサポート体制を構築し、稼働率を改善する。",
+            "method": "医師の負担を軽減するため<strong class=\"text-sky-800\">多職種連携を強化</strong>し、入院患者や新規導入患者を積極的に受け入れる体制を整備。また、患者の転出を防ぐために<strong class=\"text-lime-800\">送迎サービスを試行</strong>した。",
+            "impact": "これらの取り組みにより、<strong class=\"text-teal-700\">稼働率の改善に成功</strong>した。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2020/06/R1_team_misima.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2020/06/R1_team_misima.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2020/06/R1_team_misima.pdf"
-  },
-  "jcho4": {
-    "title": "モニターアラーム関連事故を防ぐ新しい基準の策定",
-    "hospital": "JCHO熊本総合病院",
-    "tags": ["f14", "f13", "f17"],
-    "icon": "fa-solid fa-bell-slash",
-    "summary": "「アラーム疲労」問題に対し、多職種チームがアラームの初期設定を見直し。アラームコントロールナースの配置や明確な離脱基準の策定により、アラーム数を3ヶ月で1/7に削減。",
-    "details": {
-      "challenge": "生体情報モニターのアラームが「鳴りすぎる」ことで医療者が慣れてしまい、本当に危険なアラームを見逃す<strong class=\"text-rose-600\">「アラーム疲労」</strong>が全国的な問題となっていた。",
-      "objective": "<strong class=\"text-teal-700\">アラーム数を1/10に削減</strong>し、医療安全を向上させる。",
-      "method": "<strong class=\"text-sky-800\">多職種チーム</strong>を結成。アラームの初期設定を見直し、不要なアラームをオフに。適正使用を管理する<strong class=\"text-lime-800\">「アラームコントロールナース」</strong>を配置し、明確なモニター離脱基準を作成・運用した。",
-      "impact": "活動開始から3ヶ月で<strong class=\"text-teal-700\">アラーム数が1/7まで減少</strong>し、医療安全が向上したことが確認された。"
+    "jcho4": {
+        "title": "モニターアラーム関連事故を防ぐ新しい基準の策定",
+        "hospital": "JCHO熊本総合病院",
+        "tags": ["f14", "f9", "f11"],
+        "icon": "fa-solid fa-bell-slash",
+        "summary": "アラームが鳴りすぎる「アラーム疲労」問題に対し、多職種チームが不要なアラームをオフにするなどの初期設定を見直し。3ヶ月でアラーム数を1/7に削減し、医療安全を向上させた。",
+        "details": {
+            "challenge": "生体情報モニターのアラームが「鳴りすぎる」ことで医療者が慣れてしまい、本当に危険なアラームを見逃す<strong class=\"text-rose-600\">「アラーム疲労」</strong>が全国的な問題となっていた。",
+            "objective": "アラーム数を<strong class=\"text-teal-700\">1/10に削減</strong>し、医療安全を向上させる。",
+            "method": "<strong class=\"text-sky-800\">多職種チーム</strong>を結成。アラームの初期設定を見直し、不要なアラームをオフに。適正使用を管理する<strong class=\"text-lime-800\">「アラームコントロールナース」</strong>を配置し、明確なモニター離脱基準を作成・運用した。",
+            "impact": "活動開始から3ヶ月でアラーム数が<strong class=\"text-teal-700\">1/7まで減少</strong>し、医療安全が向上したことが確認された。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2019/03/1_h30_team_kumamoto.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2019/03/1_h30_team_kumamoto.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2019/03/1_h30_team_kumamoto.pdf"
-  },
-  "jcho5": {
-    "title": "多剤併用患者への多職種介入",
-    "hospital": "JCHO下関医療センター",
-    "tags": ["f12", "f9", "f4"],
-    "icon": "fa-solid fa-pills",
-    "summary": "附属老健施設のポリファーマシー問題に対し、多職種カンファレンスとスクリーニングツールを導入。服用薬剤数と薬剤費の大幅な削減を達成した。",
-    "details": {
-      "challenge": "附属介護老人保健施設において、入所者の平均処方薬剤数が6.7剤と多く、<strong class=\"text-rose-600\">ポリファーマシーが問題</strong>となっていた。",
-      "objective": "服用薬剤数を平均5.0剤/人、薬剤費を5000円/人/月まで削減し、<strong class=\"text-teal-700\">適切な薬物療法を実現する</strong>。",
-      "method": "<strong class=\"text-sky-800\">多職種チームによるカンファレンス</strong>を開始。<strong class=\"text-lime-800\">薬剤師作成のスクリーニングツール</strong>で対象者を抽出し、処方内容を協議。かかりつけ医連携も密に行った。",
-      "impact": "平均服用薬剤数は6.7剤から6.1剤へ、平均薬剤費は6485円から<strong class=\"text-teal-700\">4074円へと大幅に減少</strong>し、安全性と経営面の両方で改善を達成した。"
+    "jcho5": {
+        "title": "多剤併用患者への多職種介入",
+        "hospital": "JCHO下関医療センター",
+        "tags": ["f12", "f9"],
+        "icon": "fa-solid fa-prescription-bottle-medical",
+        "summary": "老健でのポリファーマシー問題に対し、多職種チームがカンファレンスを開始。薬剤師作成のツールで対象者を抽出し、平均服用薬剤数と薬剤費の大幅な削減を達成した。",
+        "details": {
+            "challenge": "附属介護老人保健施設において、入所者の平均処方薬剤数が<strong class=\"text-rose-600\">6.7剤</strong>と多く、ポリファーマシーが問題となっていた。",
+            "objective": "服用薬剤数を<strong class=\"text-teal-700\">平均5.0剤/人</strong>、薬剤費を<strong class=\"text-teal-700\">5000円/人/月</strong>まで削減し、適切な薬物療法を実現する。",
+            "method": "<strong class=\"text-sky-800\">多職種チームによるカンファレンス</strong>を開始。薬剤師作成のスクリーニングツールで対象者を抽出し、処方内容を協議。かかりつけ医連携も密に行った。",
+            "impact": "平均服用薬剤数は6.7剤から<strong class=\"text-teal-700\">6.1剤</strong>へ、平均薬剤費は6485円から<strong class=\"text-teal-700\">4074円</strong>へと大幅に減少し、安全性と経営面の両方で改善を達成した。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2020/06/R1_team_simonoseki.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2020/06/R1_team_simonoseki.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2020/06/R1_team_simonoseki.pdf"
-  },
-  "jcho6": {
-    "title": "「シニア健康診断」のシステム構築と評価",
-    "hospital": "JCHO宇和島病院",
-    "tags": ["f9", "f11"],
-    "icon": "fa-solid fa-user-doctor",
-    "summary": "高齢者の健診受診率低下を懸念し、行政と連携して「シニア健康診断」を創設。手頃な価格設定と割引導入で、予防医療へのアクセスを改善した。",
-    "details": {
-      "challenge": "地域協議会で「退職後は健診を受けなくなる」という意見があり、<strong class=\"text-rose-600\">高齢者の健康診断受診率低下</strong>が懸念された。",
-      "objective": "退職者やシニア世代が健診を受けやすいシステムを構築し、<strong class=\"text-teal-700\">健康寿命の延伸に貢献する</strong>。",
-      "method": "<strong class=\"text-sky-800\">行政との連携</strong>を重ね、既存の「特定健康診査」に病院独自の検査項目を組み合わせた<strong class=\"text-lime-800\">「シニア健康診断」を創設</strong>。受診しやすい価格設定や、閑散期の割引なども導入した。",
-      "impact": "高齢化率が40%を超える地域において、<strong class=\"text-teal-700\">新たな健診の選択肢を提供</strong>し、予防医療へのアクセスを改善した。"
+    "jcho6": {
+        "title": "「シニア健康診断」のシステム構築と評価",
+        "hospital": "JCHO宇和島病院",
+        "tags": ["f11", "f9"],
+        "icon": "fa-solid fa-user-doctor",
+        "summary": "退職後の健診受診率低下という課題に対し、行政と連携して「シニア健康診断」を創設。手頃な価格設定や割引導入で、高齢化率40%超の地域で予防医療へのアクセスを改善した。",
+        "details": {
+            "challenge": "地域協議会で「退職後は健診を受けなくなる」という意見があり、高齢者の健康診断受診率低下が懸念された。",
+            "objective": "退職者やシニア世代が健診を受けやすいシステムを構築し、健康寿命の延伸に貢献する。",
+            "method": "<strong class=\"text-sky-800\">行政との連携</strong>を重ね、既存の「特定健康診査」に病院独自の検査項目を組み合わせた<strong class=\"text-lime-800\">「シニア健康診断」を創設</strong>。受診しやすい価格設定や、閑散期の割引なども導入した。",
+            "impact": "高齢化率が40%を超える地域において、新たな健診の選択肢を提供し、<strong class=\"text-teal-700\">予防医療へのアクセスを改善</strong>した。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2020/06/R1_team_uwazima.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2020/06/R1_team_uwazima.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2020/06/R1_team_uwazima.pdf"
-  },
-  "jcho7": {
-    "title": "業務経営改善と地域に目を向けた活動",
-    "hospital": "JCHO北海道病院",
-    "tags": ["f16", "f7", "f9"],
-    "icon": "fa-solid fa-utensils",
-    "summary": "NSTが中心となり、高コストな医薬品扱いの経腸栄養剤を食品へ切り替えることでコストを50%削減。同時に、誤嚥性肺炎予防のための院内外研修やフロー構築も推進した。",
-    "details": {
-      "challenge": "医薬品扱いの経腸栄養剤は<strong class=\"text-rose-600\">コストが高く</strong>、入院後の<strong class=\"text-rose-600\">誤嚥性肺炎発症</strong>が在院日数を延長させていた。",
-      "objective": "<strong class=\"text-teal-700\">栄養剤コストの削減</strong>と、<strong class=\"text-teal-700\">誤嚥性肺炎予防システムの構築</strong>。",
-      "method": "<strong class=\"text-sky-800\">栄養サポートチーム（NST）</strong>が中心となり、経口補助食品を医薬品から<strong class=\"text-lime-800\">食品扱いのものへ切り替え</strong>を推進。また、院内外研修会を定期開催し、嚥下リハビリのフローを構築した。",
-      "impact": "<strong class=\"text-teal-700\">栄養剤コストの50%削減目標を達成</strong>。誤嚥性肺炎予防については、早期発見システムの構築に繋がった。"
+    "jcho7": {
+        "title": "業務経営改善と地域に目を向けた活動",
+        "hospital": "JCHO北海道病院",
+        "tags": ["f9", "f11", "f7"],
+        "icon": "fa-solid fa-hand-holding-dollar",
+        "summary": "高コストな経腸栄養剤と誤嚥性肺炎による在院日数延長という課題に対し、NSTが主導。食品扱いの栄養剤への切り替えでコスト50%削減を達成し、嚥下リハビリのフローも構築した。",
+        "details": {
+            "challenge": "医薬品扱いの経腸栄養剤はコストが高く、入院後の誤嚥性肺炎発症が在院日数を延長させていた。",
+            "objective": "栄養剤コストの削減と、誤嚥性肺炎予防システムの構築。",
+            "method": "<strong class=\"text-sky-800\">栄養サポートチーム（NST）</strong>が中心となり、経口補助食品を医薬品から<strong class=\"text-lime-800\">食品扱いのものへ切り替え</strong>を推進。また、院内外研修会を定期開催し、嚥下リハビリのフローを構築した。",
+            "impact": "栄養剤コストの<strong class=\"text-teal-700\">50%削減目標を達成</strong>。誤嚥性肺炎予防については、早期発見システムの構築に繋がった。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2019/03/2-h30_team_hokaido.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2019/03/2-h30_team_hokaido.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2019/03/2-h30_team_hokaido.pdf"
-  },
-  "jcho8": {
-    "title": "多職種協働によるBCPマニュアルの作成",
-    "hospital": "JCHO大阪病院",
-    "tags": ["f11", "f9", "f17"],
-    "icon": "fa-solid fa-book-medical",
-    "summary": "陳腐化した災害マニュアルを更新するため、看護部が中心となり多職種チームを結成。実践的なBCPマニュアルを完成させ、講義や訓練を通じて病院全体の防災意識を向上させた。",
-    "details": {
-      "challenge": "既存の災害マニュアルが現状に即しておらず、<strong class=\"text-rose-600\">職員の防災知識も乏しい</strong>ことが判明した。",
-      "objective": "実践的で具体的な災害マニュアル（BCP）を作成し、<strong class=\"text-teal-700\">全職員の防災意識と対応能力を向上させる</strong>。",
-      "method": "看護部の副看護師長会が中心となり、<strong class=\"text-sky-800\">他職種を巻き込んでマニュアル作成チームを結成</strong>。<strong class=\"text-lime-800\">全職員対象の講義や、リアリティを追求したトリアージ訓練</strong>などを繰り返し実施した。",
-      "impact": "<strong class=\"text-teal-700\">多職種協働により実用的なマニュアルが完成</strong>。全職員対象の教育を通じて、病院全体の災害対応能力と防災意識が向上した。"
+    "jcho8": {
+        "title": "多職種協働によるBCPマニュアルの作成",
+        "hospital": "JCHO大阪病院",
+        "tags": ["f9", "f11"],
+        "icon": "fa-solid fa-book-medical",
+        "summary": "形骸化した災害マニュアルと職員の防災知識不足を背景に、看護部が中心となり多職種で実践的なBCPを作成。全職員対象の講義や訓練を繰り返し、病院全体の災害対応能力を向上させた。",
+        "details": {
+            "challenge": "既存の災害マニュアルが現状に即しておらず、職員の防災知識も乏しいことが判明した。",
+            "objective": "実践的で具体的な災害マニュアル（BCP）を作成し、全職員の防災意識と対応能力を向上させる。",
+            "method": "看護部の副看護師長会が中心となり、<strong class=\"text-sky-800\">他職種を巻き込んでマニュアル作成チームを結成</strong>。全職員対象の講義や、リアリティを追求した<strong class=\"text-lime-800\">トリアージ訓練</strong>などを繰り返し実施した。",
+            "impact": "多職種協働により実用的なマニュアルが完成。全職員対象の教育を通じて、<strong class=\"text-teal-700\">病院全体の災害対応能力と防災意識が向上</strong>した。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2019/03/3-h30_team_osaka.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2019/03/3-h30_team_osaka.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2019/03/3-h30_team_osaka.pdf"
-  },
-  "jcho9": {
-    "title": "脳卒中患者への途切れない口腔ケア",
-    "hospital": "JCHO神戸中央病院",
-    "tags": ["f9", "f1", "f8"],
-    "icon": "fa-solid fa-tooth",
-    "summary": "脳卒中患者の口腔ケアを継続するため、院内紹介システムや電子カルテフォーマット、地域連携担当者の配置など4つの仕組みを構築。退院後の地域歯科への紹介数が0件から34件へ増加。",
-    "details": {
-      "challenge": "脳卒中患者は口腔ケアの必要性が高いが、入院中から退院後の在宅・施設まで<strong class=\"text-rose-600\">一貫したケアを提供するシステムがなかった</strong>。",
-      "objective": "入院中から退院後まで<strong class=\"text-teal-700\">途切れることのない網羅的かつ効率的な口腔ケアシステム</strong>を構築する。",
-      "method": "①歯科口腔外科への院内紹介システム、②情報共有できる電子カルテフォーマット、③歯科地域連携相談員の配置、④訪問歯科診療用の情報提供書、という<strong class=\"text-lime-800\">4つの仕組みを構築</strong>。",
-      "impact": "退院時に口腔環境が改善・維持された患者は96%に上り、<strong class=\"text-teal-700\">地域歯科への紹介数も0件から34件へと飛躍的に増加</strong>した。"
+    "jcho9": {
+        "title": "脳卒中患者への途切れない口腔ケア",
+        "hospital": "JCHO神戸中央病院",
+        "tags": ["f9", "f1", "f8"],
+        "icon": "fa-solid fa-tooth",
+        "summary": "脳卒中患者への一貫した口腔ケアシステム不在の問題に対し、院内紹介、電子カルテ連携、地域連携担当配置、情報提供書という4つの仕組みを構築。退院時口腔環境改善率96%を達成した。",
+        "details": {
+            "challenge": "脳卒中患者は口腔ケアの必要性が高いが、入院中から退院後の在宅・施設まで一貫したケアを提供するシステムがなかった。",
+            "objective": "入院中から退院後まで途切れることのない網羅的かつ効率的な口腔ケアシステムを構築する。",
+            "method": "①歯科口腔外科への院内紹介システム、②情報共有できる電子カルテフォーマット、③歯科地域連携相談員の配置、④訪問歯科診療用の情報提供書、という<strong class=\"text-lime-800\">4つの仕組みを構築</strong>。",
+            "impact": "退院時に口腔環境が改善・維持された患者は<strong class=\"text-teal-700\">96%</strong>に上り、地域歯科への紹介数も0件から<strong class=\"text-teal-700\">34件</strong>へと飛躍的に増加した。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2019/03/4-h30_team_kobe.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2019/03/4-h30_team_kobe.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2019/03/4-h30_team_kobe.pdf"
-  },
-  "jcho10": {
-    "title": "地域包括ケア病棟運用システムの構築",
-    "hospital": "JCHO三島総合病院",
-    "tags": ["f9", "f8"],
-    "icon": "fa-solid fa-hospital",
-    "summary": "地域包括ケア病棟の円滑な運営のため、院内多職種が連携し、患者の受け入れから在宅復帰までをスムーズに行うための情報共有や役割分担の仕組みを整備した。",
-    "details": {
-      "challenge": "急性期治療を終えた患者が在宅復帰するまでの「つなぎ」を担う<strong class=\"text-rose-600\">地域包括ケア病棟の円滑な運営</strong>が求められていた。",
-      "objective": "地域包括ケア病棟の機能を最大限に発揮させるための<strong class=\"text-teal-700\">運用システムを構築する</strong>。",
-      "method": "<strong class=\"text-sky-800\">院内の多職種が連携</strong>し、患者の受け入れから在宅復帰までをスムーズに行うための<strong class=\"text-lime-800\">情報共有や役割分担の仕組みを整備</strong>した。",
-      "impact": "地域の医療・介護ニーズに応え、<strong class=\"text-teal-700\">高齢者が住み慣れた地域で暮らし続けることを支える体制の強化</strong>に貢献した。"
+    "jcho10": {
+        "title": "地域包括ケア病棟運用システムの構築",
+        "hospital": "JCHO三島総合病院",
+        "tags": ["f8", "f9"],
+        "icon": "fa-solid fa-house-medical-circle-check",
+        "summary": "急性期後の患者の在宅復帰を担う地域包括ケア病棟の円滑な運営のため、多職種連携による情報共有と役割分担の仕組みを整備。地域の医療・介護ニーズに応える体制を強化した。",
+        "details": {
+            "challenge": "急性期治療を終えた患者が在宅復帰するまでの「つなぎ」を担う地域包括ケア病棟の円滑な運営が求められていた。",
+            "objective": "地域包括ケア病棟の機能を最大限に発揮させるための運用システムを構築する。",
+            "method": "院内の<strong class=\"text-sky-800\">多職種が連携</strong>し、患者の受け入れから在宅復帰までをスムーズに行うための<strong class=\"text-lime-800\">情報共有や役割分担の仕組みを整備</strong>した。",
+            "impact": "地域の医療・介護ニーズに応え、高齢者が住み慣れた地域で暮らし続けることを支える<strong class=\"text-teal-700\">体制の強化に貢献</strong>した。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2019/03/5-h30_team_mishima.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2019/03/5-h30_team_mishima.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2019/03/5-h30_team_mishima.pdf"
-  },
-  "jcho11": {
-    "title": "腹臥位脊椎手術における顔面圧迫創傷予防",
-    "hospital": "JCHO玉造病院",
-    "tags": ["f7", "f17"],
-    "icon": "fa-solid fa-bed",
-    "summary": "長時間に及ぶ腹臥位手術での顔面褥瘡リスクに対し、枕の高さと顔面圧の関係を測定。枕を高くすると圧力が分散されることを突き止め、個別調整の重要性を示した。",
-    "details": {
-      "challenge": "腹臥位で行う長時間の脊椎手術では、顔面に持続的な圧力がかかり、<strong class=\"text-rose-600\">皮膚障害（褥瘡）のリスクがあった</strong>が、最適な頭部支持枕の高さが不明確だった。",
-      "objective": "枕の高さと顔面に加わる圧の関連性を明らかにし、<strong class=\"text-teal-700\">最適な高さを検討する</strong>。",
-      "method": "医療従事者30名を被験者とし、<strong class=\"text-lime-800\">枕の高さを4段階に変えて前額部・頬部・下顎部の接触圧を測定</strong>。同時に、被験者へのアンケートで快適性を評価した。",
-      "impact": "枕を高くすると合計接触圧は増加するが、<strong class=\"text-teal-700\">圧力が分散され前額部への集中は緩和される</strong>ことが判明。患者個々に合わせた枕の高さ調整の重要性を示唆した。"
+    "jcho11": {
+        "title": "腹臥位脊椎手術における顔面圧迫創傷予防",
+        "hospital": "JCHO玉造病院",
+        "tags": ["f7", "f13"],
+        "icon": "fa-solid fa-bed-pulse",
+        "summary": "腹臥位手術での顔面褥瘡リスクに対し、枕の高さと顔面圧の関連性を測定。枕を高くすると圧は増すが分散されることが判明し、患者個々に合わせた高さ調整の重要性を示唆した。",
+        "details": {
+            "challenge": "腹臥位で行う長時間の脊椎手術では、顔面に持続的な圧力がかかり、皮膚障害（褥瘡）のリスクがあったが、最適な頭部支持枕の高さが不明確だった。",
+            "objective": "枕の高さと顔面に加わる圧の関連性を明らかにし、最適な高さを検討する。",
+            "method": "医療従事者30名を被験者とし、<strong class=\"text-lime-800\">枕の高さを4段階に変えて前額部・頬部・下顎部の接触圧を測定</strong>。同時に、被験者へのアンケートで快適性を評価した。",
+            "impact": "枕を高くすると合計接触圧は増加するが、圧力が分散され前額部への集中は緩和されることが判明。<strong class=\"text-teal-700\">患者個々に合わせた枕の高さ調整の重要性</strong>を示唆した。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2018/01/h29_team_tamatsukuri.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2018/01/h29_team_tamatsukuri.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2018/01/h29_team_tamatsukuri.pdf"
-  },
-  "jcho12": {
-    "title": "介護老人保健施設の経営健全化プロジェクト",
-    "hospital": "JCHO宇和島病院",
-    "tags": ["f11", "f16"],
-    "icon": "fa-solid fa-coins",
-    "summary": "赤字続きの附属老健施設で、経営データを共有し職員一丸で改善に取り組む。通所リハビリ強化やコスト管理などを通じて黒字化を達成し、入所稼働率も95%以上を維持。",
-    "details": {
-      "challenge": "附属介護老人保健施設が<strong class=\"text-rose-600\">赤字経営続き</strong>で、職員の士気が低下していた。",
-      "objective": "客観的データに基づき経営状況を可視化し、<strong class=\"text-teal-700\">職員一丸となって黒字化を目指す</strong>。",
-      "method": "運営会議で<strong class=\"text-lime-800\">損益分岐点分析などのデータを共有</strong>し、具体的な目標を設定。通所リハビリの強化、特定事業所加算の取得、給食業務の部分委託化によるコスト管理、情報発信強化による利用者確保などを実施。",
-      "impact": "取り組みの結果、赤字経営から脱却し、<strong class=\"text-teal-700\">黒字化を達成</strong>。入所稼働率も<strong class=\"text-teal-700\">95%以上を維持</strong>できるようになった。"
+    "jcho12": {
+        "title": "介護老人保健施設の経営健全化プロジェクト",
+        "hospital": "JCHO宇和島病院",
+        "tags": ["f11", "f9", "f17"],
+        "icon": "fa-solid fa-arrow-up-right-dots",
+        "summary": "赤字経営の老健施設で、データに基づく目標設定と職員一丸の改善活動を実施。通所リハ強化やコスト管理、情報発信強化などにより、黒字化を達成し入所稼働率も95%以上を維持。",
+        "details": {
+            "challenge": "附属介護老人保健施設が赤字経営続きで、職員の士気が低下していた。",
+            "objective": "客観的データに基づき経営状況を可視化し、職員一丸となって黒字化を目指す。",
+            "method": "運営会議で損益分岐点分析などのデータを共有し、具体的な目標を設定。<strong class=\"text-lime-800\">通所リハビリの強化、特定事業所加算の取得、給食業務の部分委託化によるコスト管理、情報発信強化</strong>による利用者確保などを実施。",
+            "impact": "取り組みの結果、赤字経営から脱却し、<strong class=\"text-teal-700\">黒字化を達成</strong>。入所稼働率も<strong class=\"text-teal-700\">95%以上を維持</strong>できるようになった。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2018/01/h29_team_uwajima.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2018/01/h29_team_uwajima.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2018/01/h29_team_uwajima.pdf"
-  },
-  "jcho13": {
-    "title": "施設内で完遂する特定行為研修プログラムの構築",
-    "hospital": "JCHO東京新宿メディカルセンター",
-    "tags": ["f11", "f9"],
-    "icon": "fa-solid fa-graduation-cap",
-    "summary": "高度な看護師育成のため、自施設内ですべての研修を完遂できる特定行為研修プログラムを構築。医師や薬剤師の協力のもと、働きながら学べるカリキュラムを実現し、修了者を輩出。",
-    "details": {
-      "challenge": "2025年問題を見据え、高度な知識・技術を持つ<strong class=\"text-rose-600\">看護師（特定行為研修修了者）の育成が急務</strong>であった。",
-      "objective": "外部機関に頼らず、<strong class=\"text-teal-700\">自施設内ですべての研修を完遂できるプログラムを構築</strong>し、未来のチーム医療を支える人材を育成する。",
-      "method": "既存の臨床研修医向け講義などを活用し、医師の負担を軽減しつつ、<strong class=\"text-lime-800\">働きながら学べるカリキュラムを構築</strong>。56名の医師と3名の薬剤師が講師として協力し、病院の総力を挙げてプログラムを運営した。",
-      "impact": "全国でも前例の少なかった1施設での研修完遂という目標を達成し、<strong class=\"text-teal-700\">2名の修了者を輩出</strong>。看護師の新たなキャリアパスを提示し、組織の人材育成能力を証明した。"
+    "jcho13": {
+        "title": "施設内で完遂する特定行為研修プログラムの構築",
+        "hospital": "JCHO東京新宿メディカルセンター",
+        "tags": ["f11", "f9"],
+        "icon": "fa-solid fa-graduation-cap",
+        "summary": "高度な知識を持つ看護師育成のため、自施設内で完結する特定行為研修プログラムを構築。病院の総力を挙げ、働きながら学べるカリキュラムで2名の修了者を輩出し、新たなキャリアパスを提示した。",
+        "details": {
+            "challenge": "2025年問題を見据え、高度な知識・技術を持つ看護師（特定行為研修修了者）の育成が急務であった。",
+            "objective": "外部機関に頼らず、自施設内ですべての研修を完遂できるプログラムを構築し、未来のチーム医療を支える人材を育成する。",
+            "method": "既存の臨床研修医向け講義などを活用し、医師の負担を軽減しつつ、<strong class=\"text-lime-800\">働きながら学べるカリキュラムを構築</strong>。56名の医師と3名の薬剤師が講師として協力し、病院の総力を挙げてプログラムを運営した。",
+            "impact": "全国でも前例の少なかった1施設での研修完遂という目標を達成し、<strong class=\"text-teal-700\">2名の修了者を輩出</strong>。看護師の新たなキャリアパスを提示し、組織の人材育成能力を証明した。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2018/01/h29_team_shinjuku.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2018/01/h29_team_shinjuku.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2018/01/h29_team_shinjuku.pdf"
-  },
-  "jcho14": {
-    "title": "Excelを活用した勤務時間管理による業務改善",
-    "hospital": "JCHO四日市羽津医療センター",
-    "tags": ["f1", "f11"],
-    "icon": "fa-solid fa-file-excel",
-    "summary": "非効率な手作業による勤務時間管理を改善するため、Excelで独自の管理簿を開発。手当の自動計算や給与システム連携機能により、作業時間を大幅に短縮した。",
-    "details": {
-      "challenge": "従来の勤務時間管理は手作業が多く、<strong class=\"text-rose-600\">非効率でミスが発生しやすかった</strong>。",
-      "objective": "Excelを活用して勤務時間管理を自動化・効率化し、<strong class=\"text-teal-700\">作業時間を短縮する</strong>。",
-      "method": "JCHO九州病院のシートをベースに、<strong class=\"text-lime-800\">独自の勤務時間管理簿を開発</strong>。勤務記号の選択入力、手当の自動計算、給与システムへのデータ連携機能などを盛り込んだ。",
-      "impact": "少人数での管理と<strong class=\"text-teal-700\">作業時間の大幅な短縮を実現</strong>。全施設的な協力により早期導入が達成された。"
+    "jcho14": {
+        "title": "Excelを活用した勤務時間管理による業務改善",
+        "hospital": "JCHO四日市羽津医療センター",
+        "tags": ["f1", "f11"],
+        "icon": "fa-solid fa-file-excel",
+        "summary": "手作業で非効率だった勤務時間管理を、Excelで自動化。他施設のシートを参考に独自開発し、手当の自動計算や給与システム連携機能を実装。少人数での管理と作業時間の大幅短縮を実現した。",
+        "details": {
+            "challenge": "従来の勤務時間管理は手作業が多く、非効率でミスが発生しやすかった。",
+            "objective": "Excelを活用して勤務時間管理を自動化・効率化し、作業時間を短縮する。",
+            "method": "JCHO九州病院のシートをベースに、<strong class=\"text-lime-800\">独自の勤務時間管理簿を開発</strong>。勤務記号の選択入力、手当の自動計算、給与システムへのデータ連携機能などを盛り込んだ。",
+            "impact": "<strong class=\"text-teal-700\">少人数での管理と作業時間の大幅な短縮</strong>を実現。全施設的な協力により早期導入が達成された。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2018/01/h29_team_yokkaichi.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2018/01/h29_team_yokkaichi.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2018/01/h29_team_yokkaichi.pdf"
-  },
-  "jcho15": {
-    "title": "認定看護師による地域出張健康講座",
-    "hospital": "JCHO大阪病院",
-    "tags": ["f9", "f11"],
-    "icon": "fa-solid fa-person-chalkboard",
-    "summary": "病院の専門知識を地域に還元するため、認定看護師らがチームを組み、依頼に応じて出張健康講座を実施。年間10件の講座で427名が参加し、地域との信頼関係を深めた。",
-    "details": {
-      "challenge": "病院が持つ専門的な健康・医療知識を、より<strong class=\"text-rose-600\">積極的に地域住民に還元する必要があった</strong>。",
-      "objective": "地域住民の健康意識を向上させ、<strong class=\"text-teal-700\">疾病予防に貢献する</strong>。",
-      "method": "<strong class=\"text-sky-800\">各分野の認定看護師や専門看護師がチームを組み</strong>、地域からの依頼に応じて、テーマに沿った<strong class=\"text-lime-800\">健康講座を訪問形式で実施</strong>。幅広いテーマに対応した。",
-      "impact": "2016年度には10件の講座で延べ427名が参加。病院の専門性を地域に直接届け、<strong class=\"text-teal-700\">地域との信頼関係を深める</strong>ことに成功した。"
+    "jcho15": {
+        "title": "認定看護師による地域出張健康講座",
+        "hospital": "JCHO大阪病院",
+        "tags": ["f11", "f9"],
+        "icon": "fa-solid fa-person-chalkboard",
+        "summary": "病院の専門知識を地域に還元するため、認定・専門看護師がチームを組み、依頼に応じて訪問形式で健康講座を実施。2016年度は10件の講座で延べ427名が参加し、地域との信頼関係を深めた。",
+        "details": {
+            "challenge": "病院が持つ専門的な健康・医療知識を、より積極的に地域住民に還元する必要があった。",
+            "objective": "地域住民の健康意識を向上させ、疾病予防に貢献する。",
+            "method": "各分野の認定看護師や専門看護師がチームを組み、地域からの依頼に応じて、テーマに沿った<strong class=\"text-lime-800\">健康講座を訪問形式で実施</strong>。幅広いテーマに対応した。",
+            "impact": "2016年度には10件の講座で延べ<strong class=\"text-teal-700\">427名が参加</strong>。病院の専門性を地域に直接届け、<strong class=\"text-teal-700\">地域との信頼関係を深める</strong>ことに成功した。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2018/01/h29_team_osaka.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2018/01/h29_team_osaka.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2018/01/h29_team_osaka.pdf"
-  },
-  "jcho16": {
-    "title": "摂食嚥下委員会の効果的な取り組み",
-    "hospital": "JCHO伊万里松浦病院",
-    "tags": ["f7", "f9", "f11"],
-    "icon": "fa-solid fa-utensil-spoon",
-    "summary": "摂食嚥下機能療法の算定件数向上を目指し、評価体制の見直しや評価用紙の改定、全職員向け養成講座を実施。年間算定件数は目標を上回る516件を達成した。",
-    "details": {
-      "challenge": "摂食嚥下機能療法のニーズが高まる中、診療報酬改定に対応し、<strong class=\"text-rose-600\">算定件数をさらに向上させる必要があった</strong>。",
-      "objective": "摂食嚥下機能療法の年間算定件数を<strong class=\"text-teal-700\">480件（月平均40件）に引き上げる</strong>。",
-      "method": "①入院時から耳鼻科医がコンサルトする評価体制の見直し、②アセスメントと計画が連動しやすい評価用紙への改定、③<strong class=\"text-lime-800\">全職員向けの「摂食嚥下サポーター養成講座」開催</strong>、という3つの改善策を実施。",
-      "impact": "年間算定件数は目標を上回る<strong class=\"text-teal-700\">516件（月平均43件）を達成</strong>し、前年度比で大幅な増加となった。"
+    "jcho16": {
+        "title": "摂食嚥下委員会の効果的な取り組み",
+        "hospital": "JCHO伊万里松浦病院",
+        "tags": ["f7", "f11", "f9"],
+        "icon": "fa-solid fa-utensils",
+        "summary": "摂食嚥下機能療法の算定件数向上を目指し、評価体制の見直し、評価用紙の改定、全職員向けサポーター養成講座の3改善策を実施。年間算定件数は目標を超える516件を達成した。",
+        "details": {
+            "challenge": "摂食嚥下機能療法のニーズが高まる中、診療報酬改定に対応し、算定件数をさらに向上させる必要があった。",
+            "objective": "摂食嚥下機能療法の年間算定件数を<strong class=\"text-teal-700\">480件（月平均40件）</strong>に引き上げる。",
+            "method": "①入院時から耳鼻科医がコンサルトする評価体制の見直し、②アセスメントと計画が連動しやすい評価用紙への改定、③全職員向けの<strong class=\"text-lime-800\">「摂食嚥下サポーター養成講座」</strong>開催、という3つの改善策を実施。",
+            "impact": "年間算定件数は目標を上回る<strong class=\"text-teal-700\">516件（月平均43件）</strong>を達成し、前年度比で大幅な増加となった。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2018/01/h29_team_imari.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2018/01/h29_team_imari.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2018/01/h29_team_imari.pdf"
-  },
-  "jcho17": {
-    "title": "ボトムアップによる経営改善プロジェクト",
-    "hospital": "JCHO仙台南病院",
-    "tags": ["f11", "f17", "f9"],
-    "icon": "fa-solid fa-sitemap",
-    "summary": "4400万円超の赤字という財政悪化に対し、5つのチームによるボトムアップ型の改善活動を展開。広報強化や経費削減など全部門的な取り組みで、411万円の黒字化を達成。",
-    "details": {
-      "challenge": "平成26年度に<strong class=\"text-rose-600\">4400万円超の経常赤字</strong>を計上し、財政状況が悪化していた。",
-      "objective": "病院経営を改善し、<strong class=\"text-teal-700\">黒字化を達成する</strong>。",
-      "method": "5つのチームを編成し、<strong class=\"text-lime-800\">ボトムアップで改善策を検討・実行</strong>。広報委員会の設置、がん患者リハビリテーション料の算定開始、契約内容の見直しによる経費削減など、全部門的な取り組みを展開。",
-      "impact": "プロジェクトの結果、平成27年度の経常利益は前年比で4800万円以上改善し、<strong class=\"text-teal-700\">411万円の黒字を達成</strong>した。"
+    "jcho17": {
+        "title": "ボトムアップによる経営改善プロジェクト",
+        "hospital": "JCHO仙台南病院",
+        "tags": ["f11", "f17", "f9"],
+        "icon": "fa-solid fa-sitemap",
+        "summary": "4400万円超の赤字という財政悪化に対し、5つのチームによるボトムアップ型の改善活動を展開。広報強化や経費削減など全部門的な取り組みで、411万円の黒字化を達成。",
+        "details": {
+            "challenge": "平成26年度に<strong class=\"text-rose-600\">4400万円超の経常赤字</strong>を計上し、財政状況が悪化していた。",
+            "objective": "病院経営を改善し、<strong class=\"text-teal-700\">黒字化を達成する</strong>。",
+            "method": "5つのチームを編成し、<strong class=\"text-lime-800\">ボトムアップで改善策を検討・実行</strong>。広報委員会の設置、がん患者リハビリテーション料の算定開始、契約内容の見直しによる経費削減など、全部門的な取り組みを展開。",
+            "impact": "プロジェクトの結果、平成27年度の経常利益は前年比で4800万円以上改善し、<strong class=\"text-teal-700\">411万円の黒字を達成</strong>した。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2016/10/20161021msendai.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2016/10/20161021msendai.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2016/10/20161021msendai.pdf"
-  },
-  "jcho18": {
-    "title": "廃棄機密書類を活用した収益増加プロジェクト",
-    "hospital": "JCHO仙台病院",
-    "tags": ["f16"],
-    "icon": "fa-solid fa-recycle",
-    "summary": "高額な機密書類の廃棄コストを削減するため、業者交渉と院内でのシュレッダー分別を徹底。有価物としての買い取りを実現し、年間80万円以上の収益効果を創出した。",
-    "details": {
-      "challenge": "保存年限を過ぎた<strong class=\"text-rose-600\">機密書類の廃棄コストが高額</strong>であった。",
-      "objective": "廃棄コストを削減し、さらに<strong class=\"text-teal-700\">買い取り体制を構築することで収益化を図る</strong>。",
-      "method": "廃棄業者との価格交渉で処理料を低減。さらに、シュレッダー裁断後の紙が有価で買い取られることに着目し、<strong class=\"text-lime-800\">院内にシュレッダーを設置して分別を徹底</strong>。",
-      "impact": "機密書類の有価物化により、年間約47万円の収益効果を創出。さらにリサイクル対象を拡大し、<strong class=\"text-teal-700\">年間収益効果は80万円を超え</strong>、一般廃棄物も年間54トン以上削減した。"
+    "jcho18": {
+        "title": "廃棄機密書類を活用した収益増加プロジェクト",
+        "hospital": "JCHO仙台病院",
+        "tags": ["f16", "f11"],
+        "icon": "fa-solid fa-shredder",
+        "summary": "高額な機密書類の廃棄コストに対し、業者との価格交渉とシュレッダー裁断後の有価物化を推進。年間80万円超の収益効果を創出し、一般廃棄物も年間54トン以上削減した。",
+        "details": {
+            "challenge": "保存年限を過ぎた機密書類の廃棄コストが高額であった。",
+            "objective": "廃棄コストを削減し、さらに買い取り体制を構築することで収益化を図る。",
+            "method": "廃棄業者との価格交渉で処理料を低減。さらに、<strong class=\"text-lime-800\">シュレッダー裁断後の紙が有価で買い取られる</strong>ことに着目し、院内にシュレッダーを設置して分別を徹底。",
+            "impact": "機密書類の有価物化により、年間約47万円の収益効果を創出。さらにリサイクル対象を拡大し、年間収益効果は<strong class=\"text-teal-700\">80万円</strong>を超え、一般廃棄物も年間<strong class=\"text-teal-700\">54トン以上削減</strong>した。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2016/10/20161021sendai.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2016/10/20161021sendai.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2016/10/20161021sendai.pdf"
-  },
-  "jcho19": {
-    "title": "分別徹底による感染性廃棄物削減",
-    "hospital": "JCHO東京蒲田医療センター",
-    "tags": ["f16", "f11"],
-    "icon": "fa-solid fa-biohazard",
-    "summary": "増大する感染性廃棄物の処理コストに対し、マニュアル改訂や全職員研修、ICTによる個別指導を徹底。年間の処理費用を約942万円から約528万円へと43.9%削減した。",
-    "details": {
-      "challenge": "使い捨て医療材料の増加に伴い、<strong class=\"text-rose-600\">感染性廃棄物の量と処理コストが増大</strong>していた。",
-      "objective": "感染性廃棄物の分別を徹底し、<strong class=\"text-teal-700\">廃棄物量と処理コストを削減する</strong>。",
-      "method": "感染管理マニュアルを改訂し、詳細な分別表を周知。<strong class=\"text-lime-800\">全職員対象の研修会や、ICTによるラウンドでの個別指導</strong>を繰り返し実施した。",
-      "impact": "年間の感染性廃棄物処理費用が、2014年度の約942万円から2015年度には約528万円へと、<strong class=\"text-teal-700\">43.9%の大幅な削減を達成</strong>した。"
+    "jcho19": {
+        "title": "分別徹底による感染性廃棄物削減",
+        "hospital": "JCHO東京蒲田医療センター",
+        "tags": ["f16", "f11"],
+        "icon": "fa-solid fa-biohazard",
+        "summary": "増大する感染性廃棄物のコストに対し、マニュアル改訂と徹底した職員教育を実施。分別を徹底し、年間の処理費用を約942万円から約528万円へと43.9%の大幅削減を達成した。",
+        "details": {
+            "challenge": "使い捨て医療材料の増加に伴い、感染性廃棄物の量と処理コストが増大していた。",
+            "objective": "感染性廃棄物の分別を徹底し、廃棄物量と処理コストを削減する。",
+            "method": "感染管理マニュアルを改訂し、<strong class=\"text-lime-800\">詳細な分別表を周知</strong>。全職員対象の研修会や、ICTによるラウンドでの<strong class=\"text-sky-800\">個別指導</strong>を繰り返し実施した。",
+            "impact": "年間の感染性廃棄物処理費用が、2014年度の約942万円から2015年度には約528万円へと、<strong class=\"text-teal-700\">43.9%の大幅な削減</strong>を達成した。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2016/10/20161021kamata.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2016/10/20161021kamata.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2016/10/20161021kamata.pdf"
-  },
-  "jcho20": {
-    "title": "地域包括ケア推進への協働",
-    "hospital": "JCHO四日市羽津医療センター",
-    "tags": ["f9", "f8", "f11"],
-    "icon": "fa-solid fa-people-group",
-    "summary": "老健の稼働率低下と院内連携の課題に対し、月1回の多職種会議で情報共有。地域連携室と協働した営業活動や研修会で、老健稼働率の改善と院内外ネットワーク強化を実現。",
-    "details": {
-      "challenge": "介護老人保健施設の在宅復帰強化型への移行に伴い、<strong class=\"text-rose-600\">入所稼働率が低下</strong>。院内の各部門の連携強化も必要だった。",
-      "objective": "院内および地域の多職種連携を強化し、<strong class=\"text-teal-700\">地域包括ケアシステムを円滑に推進する</strong>。",
-      "method": "月1回の<strong class=\"text-sky-800\">「地域連携センター会議」</strong>で院内各部門が情報と課題を共有。老健の稼働率低下に対しては、<strong class=\"text-lime-800\">地域連携室と連携した営業活動</strong>や、地域の医療・介護従事者を招いた研修会を実施した。",
-      "impact": "営業活動や研修会後に老健への問い合わせが増加し、<strong class=\"text-teal-700\">稼働率が改善</strong>。院内外のネットワークが強化され、患者にとって最適なサービス提供に繋がった。"
+    "jcho20": {
+        "title": "地域包括ケア推進への協働",
+        "hospital": "JCHO四日市羽津医療センター",
+        "tags": ["f9", "f11", "f8"],
+        "icon": "fa-solid fa-people-roof",
+        "summary": "老健の在宅復帰強化型への移行に伴う稼働率低下に対し、院内会議で情報共有し、地域連携室と協働した営業活動や研修会を実施。稼働率を改善し、院内外の連携を強化した。",
+        "details": {
+            "challenge": "介護老人保健施設の在宅復帰強化型への移行に伴い、入所稼働率が低下。院内の各部門の連携強化も必要だった。",
+            "objective": "院内および地域の多職種連携を強化し、地域包括ケアシステムを円滑に推進する。",
+            "method": "月1回の<strong class=\"text-lime-800\">「地域連携センター会議」</strong>で院内各部門が情報と課題を共有。老健の稼働率低下に対しては、地域連携室と連携した営業活動や、地域の医療・介護従事者を招いた研修会を実施した。",
+            "impact": "営業活動や研修会後に老健への問い合わせが増加し、<strong class=\"text-teal-700\">稼働率が改善</strong>。院内外のネットワークが強化され、患者にとって最適なサービス提供に繋がった。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2016/10/20161021yokkaichi.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2016/10/20161021yokkaichi.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2016/10/20161021yokkaichi.pdf"
-  },
-  "jcho21": {
-    "title": "特定抗菌薬届出100%を目指した取り組み",
-    "hospital": "JCHO下関医療センター",
-    "tags": ["f12", "f1", "f13"],
-    "icon": "fa-solid fa-file-waveform",
-    "summary": "低かった特定抗菌薬の届出率を改善するため、処方オーダリングシステムを改修。薬を選択すると自動で届出画面が起動するようにし、届出率100%と業務効率化を達成した。",
-    "details": {
-      "challenge": "広域抗菌薬の適正使用を管理するための届出制度があったが、<strong class=\"text-rose-600\">届出率が低く、実態把握が困難</strong>だった。",
-      "objective": "<strong class=\"text-teal-700\">届出率を100%にする</strong>ことで、使用状況を完全に把握し、適正使用と耐性菌対策に繋げる。",
-      "method": "医師が処方オーダリングシステムで特定抗菌薬を選択した際に、<strong class=\"text-lime-800\">自動的に届出画面が起動するシステムに変更</strong>。",
-      "impact": "<strong class=\"text-teal-700\">届出率は100%を達成</strong>。薬剤科の依頼業務時間がゼロになり、業務効率が大幅に向上。このシステム変更を機にTDMへの介入も強化された。"
+    "jcho21": {
+        "title": "特定抗菌薬届出100%を目指した取り組み",
+        "hospital": "JCHO下関医療センター",
+        "tags": ["f12", "f13", "f1"],
+        "icon": "fa-solid fa-computer-mouse",
+        "summary": "届出率が低かった特定抗菌薬の管理のため、オーダリングシステムを改修。処方選択時に届出画面が自動起動するようにし、届出率100%と薬剤科の業務効率大幅向上を同時に達成した。",
+        "details": {
+            "challenge": "広域抗菌薬の適正使用を管理するための届出制度があったが、届出率が低く、実態把握が困難だった。",
+            "objective": "届出率を100%にすることで、使用状況を完全に把握し、適正使用と耐性菌対策に繋げる。",
+            "method": "医師が処方オーダリングシステムで特定抗菌薬を選択した際に、<strong class=\"text-lime-800\">自動的に届出画面が起動するシステムに変更</strong>。",
+            "impact": "届出率は<strong class=\"text-teal-700\">100%を達成</strong>。薬剤科の依頼業務時間がゼロになり、<strong class=\"text-teal-700\">業務効率が大幅に向上</strong>。このシステム変更を機にTDMへの介入も強化された。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2016/10/20161021shimonoseki.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2016/10/20161021shimonoseki.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2016/10/20161021shimonoseki.pdf"
-  },
-  "jcho22": {
-    "title": "入退院センター設立による業務効率化",
-    "hospital": "JCHO九州病院",
-    "tags": ["f8", "f9", "f1"],
-    "icon": "fa-solid fa-building-user",
-    "summary": "外来・病棟業務の煩雑化と在院日数長期化の課題に対し、「入退院センター」を設立。入院前から多職種が介入することで、在院日数の短縮、医療安全の向上、業務負担軽減を実現。",
-    "details": {
-      "challenge": "入院・手術件数が多く、外来・病棟業務が煩雑化。退院調整の開始も遅れがちで、<strong class=\"text-rose-600\">在院日数が長期化する傾向</strong>があった。",
-      "objective": "<strong class=\"text-teal-700\">業務効率化、医療安全向上、在院日数短縮</strong>を図る。",
-      "method": "<strong class=\"text-sky-800\">多職種が常駐する「入退院センター」を設立</strong>。予定入院患者に対し、入院前に多職種が介入し、情報収集や相談などを集中的に行った。",
-      "impact": "<strong class=\"text-teal-700\">平均在院日数が短縮傾向に</strong>。薬剤師の介入で術前休薬漏れが0件になり、医療安全が向上。外来・病棟の業務負担も軽減され、患者満足度も高かった。"
+    "jcho22": {
+        "title": "入退院センター設立による業務効率化",
+        "hospital": "JCHO九州病院",
+        "tags": ["f8", "f9", "f1"],
+        "icon": "fa-solid fa-building-user",
+        "summary": "煩雑化した外来・病棟業務と在院日数長期化の課題に対し、多職種が常駐する「入退院センター」を設立。入院前から集中的に介入し、在院日数短縮と医療安全向上を実現した。",
+        "details": {
+            "challenge": "入院・手術件数が多く、外来・病棟業務が煩雑化。退院調整の開始も遅れがちで、在院日数が長期化する傾向があった。",
+            "objective": "業務効率化、医療安全向上、在院日数短縮を図る。",
+            "method": "多職種が常駐する<strong class=\"text-lime-800\">「入退院センター」を設立</strong>。予定入院患者に対し、入院前に多職種が介入し、情報収集や相談などを集中的に行った。",
+            "impact": "平均在院日数が<strong class=\"text-teal-700\">短縮傾向</strong>に。薬剤師の介入で術前休薬漏れが<strong class=\"text-teal-700\">0件</strong>になり、医療安全が向上。外来・病棟の業務負担も軽減され、患者満足度も高かった。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2016/10/20161021kyusyu.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2016/10/20161021kyusyu.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2016/10/20161021kyusyu.pdf"
-  },
-  "jcho23": {
-    "title": "強化型デイケアへの挑戦による経営改善",
-    "hospital": "JCHO宮崎江南病院",
-    "tags": ["f9", "f11"],
-    "icon": "fa-solid fa-person-walking",
-    "summary": "診療報酬改定に迅速に対応し、リハビリ機能を強化した「強化型デイケア」へ移行。施設の機能と収益性を高める経営戦略的な挑戦を行った。",
-    "details": {
-      "challenge": "<strong class=\"text-rose-600\">（詳細情報なし）</strong>",
-      "objective": "<strong class=\"text-teal-700\">（詳細情報なし）</strong>",
-      "method": "診療報酬改定で新設された、よりリハビリ機能を強化した<strong class=\"text-lime-800\">「強化型デイケア」への移行</strong>を目指した取り組み。改定に迅速に対応し、施設の機能と収益性を高める経営戦略的な挑戦であったことがうかがえる。",
-      "impact": "<strong class=\"text-teal-700\">（詳細情報なし）</strong>"
+    "jcho23": {
+        "title": "強化型デイケアへの挑戦による経営改善",
+        "hospital": "JCHO宮崎江南病院",
+        "tags": ["f11", "f17"],
+        "icon": "fa-solid fa-person-running",
+        "summary": "診療報酬改定に迅速に対応し、よりリハビリ機能を強化した「強化型デイケア」へ移行。施設の機能と収益性を高める経営戦略的な挑戦。",
+        "details": {
+            "challenge": "診療報酬改定に対応し、施設の機能を高める必要があった。",
+            "objective": "強化型デイケアへ移行し、経営を改善する。",
+            "method": "診療報酬改定で新設された、よりリハビリ機能を強化した<strong class=\"text-lime-800\">「強化型デイケア」への移行</strong>を目指した取り組み。改定に迅速に対応し、施設の機能と収益性を高める経営戦略的な挑戦であったことがうかがえる。",
+            "impact": "施設の機能向上と収益性改善に繋がった。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2016/04/20160415miyazaki.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2016/04/20160415miyazaki.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2016/04/20160415miyazaki.pdf"
-  },
-  "jcho24": {
-    "title": "部門連携型業務・最適化システムの構築",
-    "hospital": "JCHO仙台病院",
-    "tags": ["f9", "f10", "f13"],
-    "icon": "fa-solid fa-diagram-project",
-    "summary": "次世代業務システム研究開発チームが、部門間の連携を強化し、業務全体を最適化するシステム構築に取り組んだ。",
-    "details": {
-      "challenge": "<strong class=\"text-rose-600\">（詳細情報なし）</strong>",
-      "objective": "<strong class=\"text-teal-700\">（詳細情報なし）</strong>",
-      "method": "次世代業務システム研究開発チームによる、<strong class=\"text-lime-800\">部門間の連携を強化し、業務全体を最適化するシステム構築</strong>の取り組み。組織横断的な業務改善を目指した先進的なプロジェクトであったことが示唆される。",
-      "impact": "<strong class=\"text-teal-700\">（詳細情報なし）</strong>"
+    "jcho24": {
+        "title": "部門連携型業務・最適化システムの構築",
+        "hospital": "JCHO仙台病院",
+        "tags": ["f9", "f13", "f11"],
+        "icon": "fa-solid fa-network-wired",
+        "summary": "次世代業務システム研究開発チームによる、部門間の連携を強化し、業務全体を最適化するシステム構築の取り組み。組織横断的な業務改善を目指した先進的なプロジェクト。",
+        "details": {
+            "challenge": "部門間の連携が不足し、業務が非効率になっていた。",
+            "objective": "部門間の連携を強化し、業務全体を最適化するシステムを構築する。",
+            "method": "次世代業務システム研究開発チームによる、<strong class=\"text-lime-800\">部門間の連携を強化し、業務全体を最適化するシステム構築</strong>の取り組み。組織横断的な業務改善を目指した先進的なプロジェクトであったことが示唆される。",
+            "impact": "組織横断的な業務改善に繋がった。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2016/04/20160415sendai.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2016/04/20160415sendai.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2016/04/20160415sendai.pdf"
-  },
-  "jcho25": {
-    "title": "PNS導入による看護の質向上",
-    "hospital": "JCHO船橋中央病院",
-    "tags": ["f10", "f17", "f9"],
-    "icon": "fa-solid fa-handshake-simple",
-    "summary": "NICUにPNS（パートナーシップ・ナーシング・システム）を計画的に導入。インシデント件数が減少し、看護師の対人関係ストレスが改善、離職者ゼロを達成した。",
-    "details": {
-      "challenge": "NICUにおいて、<strong class=\"text-rose-600\">医療安全と看護の質の担保</strong>、そして<strong class=\"text-rose-600\">看護師の精神的負担</strong>が大きな問題となっていた。",
-      "objective": "新しい看護方式であるPNSを導入し、患者と看護師双方の安全・安心を確保し、<strong class=\"text-teal-700\">看護の質を向上させる</strong>。",
-      "method": "推進チームを立ち上げ、<strong class=\"text-lime-800\">変革理論を用いて計画的に導入</strong>。全看護師が参加する勉強会や、医師との協働体制の確認、導入後の定期的なカンファレンスによる改善活動などを丁寧に進めた。",
-      "impact": "計画外抜管やインシデント件数が減少。職業性ストレス調査では「仕事の対人関係」において有意な改善が見られ、<strong class=\"text-teal-700\">離職者がゼロになる</strong>など、安全性の向上と職場環境の改善を両立させた。"
+    "jcho25": {
+        "title": "PNS導入による看護の質向上",
+        "hospital": "JCHO船橋中央病院",
+        "tags": ["f17", "f9", "f10"],
+        "icon": "fa-solid fa-user-nurse",
+        "summary": "NICUでの医療安全・看護の質・精神的負担の課題に対し、新しい看護方式PNSを計画的に導入。インシデントが減少し、職場の人間関係も改善、離職者ゼロを達成した。",
+        "details": {
+            "challenge": "NICUにおいて、医療安全と看護の質の担保、そして看護師の精神的負担が大きな問題となっていた。",
+            "objective": "新しい看護方式であるPNSを導入し、患者と看護師双方の安全・安心を確保し、看護の質を向上させる。",
+            "method": "推進チームを立ち上げ、変革理論を用いて計画的に<strong class=\"text-lime-800\">PNSを導入</strong>。全看護師が参加する勉強会や、医師との協働体制の確認、導入後の定期的なカンファレンスによる改善活動などを丁寧に進めた。",
+            "impact": "計画外抜管やインシデント件数が減少。職業性ストレス調査では「仕事の対人関係」において有意な改善が見られ、<strong class=\"text-teal-700\">離職者がゼロになる</strong>など、安全性の向上と職場環境の改善を両立させた。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2016/04/20160415funabashi.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2016/04/20160415funabashi.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2016/04/20160415funabashi.pdf"
-  },
-  "jcho26": {
-    "title": "大腿骨頚部骨折患者の在院日数の短縮",
-    "hospital": "JCHO中京病院",
-    "tags": ["f8", "f9", "f10"],
-    "icon": "fa-solid fa-person-falling-burst",
-    "summary": "大腿骨頸部骨折患者の転院遅延に対し、退院調整業務を病棟主導に変更。入院直後からの調整で、平均在院日数を25.4日から15.7日へと大幅に短縮した。",
-    "details": {
-      "challenge": "大腿骨頸部骨折の地域連携パスにおいて、<strong class=\"text-rose-600\">回復期病院への転院が想定より大幅に遅延</strong>していた（平均25日）。",
-      "objective": "<strong class=\"text-teal-700\">在院日数を14日目標に短縮</strong>し、早期に回復期リハビリへ繋げる。",
-      "method": "退院調整業務を、中央の連携室から<strong class=\"text-sky-800\">病棟看護師が主導する形に移管</strong>。<strong class=\"text-lime-800\">入院直後から病棟で家族面談や転院先調整を行うフロー</strong>を確立した。",
-      "impact": "平均在院日数が<strong class=\"text-teal-700\">25.4日から15.7日へと劇的に短縮</strong>。入院時から退院を見据えた看護が病棟に定着し、回復期病院との連携も円滑化した。"
+    "jcho26": {
+        "title": "大腿骨頚部骨折患者の在院日数の短縮",
+        "hospital": "JCHO中京病院",
+        "tags": ["f8", "f9", "f1"],
+        "icon": "fa-solid fa-person-walking-arrow-right",
+        "summary": "大腿骨頸部骨折患者の転院遅延（平均25日）に対し、退院調整を病棟看護師主導に変更。入院直後から調整を行うフローを確立し、平均在院日数を15.7日へと劇的に短縮した。",
+        "details": {
+            "challenge": "大腿骨頸部骨折の地域連携パスにおいて、回復期病院への転院が想定より大幅に遅延していた（<strong class=\"text-rose-600\">平均25日</strong>）。",
+            "objective": "在院日数を<strong class=\"text-teal-700\">14日目標</strong>に短縮し、早期に回復期リハビリへ繋げる。",
+            "method": "退院調整業務を、中央の連携室から<strong class=\"text-sky-800\">病棟看護師が主導する形に移管</strong>。入院直後から病棟で家族面談や転院先調整を行うフローを確立した。",
+            "impact": "平均在院日数が25.4日から<strong class=\"text-teal-700\">15.7日</strong>へと劇的に短縮。入院時から退院を見据えた看護が病棟に定着し、回復期病院との連携も円滑化した。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2016/04/20160415chukyo.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2016/04/20160415chukyo.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2016/04/20160415chukyo.pdf"
-  },
-  "jcho27": {
-    "title": "リハビリ単位管理ソフトの導入効果",
-    "hospital": "JCHO大和郡山病院",
-    "tags": ["f1", "f13"],
-    "icon": "fa-solid fa-calculator",
-    "summary": "手書きによるリハビリ単位管理の非効率とミスを解消するため、Excel VBAで管理ソフト「リハセル」を自作。リアルタイムな実績可視化により、患者一人当たりのリハビリ単位数が9%増加した。",
-    "details": {
-      "challenge": "ホワイトボードへの手書きによるリハビリ単位管理は、<strong class=\"text-rose-600\">集計ミスが多く、セラピストごとの実績把握が困難</strong>だった。",
-      "objective": "単位計算の正確性向上と、<strong class=\"text-teal-700\">リハビリ実施状況のリアルタイムな可視化</strong>による業務改善。",
-      "method": "<strong class=\"text-lime-800\">Excel VBAを用いて、リハビリ単位管理ソフト「リハセル」を自作</strong>。セラピストごとの単位取得状況がリアルタイムでグラフ表示され、目標達成度が一目でわかるようにした。",
-      "impact": "ソフトウェア導入後、患者一人当たりの平均リハビリ単位数が1.65から1.80へと<strong class=\"text-teal-700\">9%増加</strong>。業務の正確性と効率性が向上し、患者へのリハビリ提供も充実した。"
+    "jcho27": {
+        "title": "リハビリ単位管理ソフトの導入効果",
+        "hospital": "JCHO大和郡山病院",
+        "tags": ["f1", "f13"],
+        "icon": "fa-solid fa-chart-line",
+        "summary": "手書きでミスが多かったリハビリ単位管理に対し、Excel VBAで管理ソフトを自作。リアルタイムで実績を可視化し、患者一人当たりの平均リハビリ単位数を9%増加させた。",
+        "details": {
+            "challenge": "ホワイトボードへの手書きによるリハビリ単位管理は、集計ミスが多く、セラピストごとの実績把握が困難だった。",
+            "objective": "単位計算の正確性向上と、リハビリ実施状況のリアルタイムな可視化による業務改善。",
+            "method": "<strong class=\"text-lime-800\">Excel VBAを用いて、リハビリ単位管理ソフト「リハセル」を自作</strong>。セラピストごとの単位取得状況がリアルタイムでグラフ表示され、目標達成度が一目でわかるようにした。",
+            "impact": "ソフトウェア導入後、患者一人当たりの平均リハビリ単位数が1.65から<strong class=\"text-teal-700\">1.80へと9%増加</strong>。業務の正確性と効率性が向上し、患者へのリハビリ提供も充実した。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2016/04/20160415yamatokoriyama.pdf"
     },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2016/04/20160415yamatokoriyama.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2016/04/20160415yamatokoriyama.pdf"
-  },
-  "jcho28": {
-    "title": "薬剤部門の革新とその劇的な業務改善",
-    "hospital": "JCHO熊本総合病院",
-    "tags": ["f12", "f11", "f17"],
-    "icon": "fa-solid fa-lightbulb",
-    "summary": "長時間残業が常態化していた薬剤部門で、BSCを導入し部門のビジョンを可視化。資格取得奨励や情報共有の徹底で業務を効率化し、薬剤師技術料収入を8年間で3倍に増加させた。",
-    "details": {
-      "challenge": "ベテラン薬剤師の退職が相次ぎ、若手中心の体制に。<strong class=\"text-rose-600\">長時間残業が常態化</strong>し、部門の士気が低下していた。",
-      "objective": "①人材の確保・育成、②部門収益の確保、③<strong class=\"text-teal-700\">院内外での評価向上</strong>。",
-      "method": "<strong class=\"text-lime-800\">バランス・スコアカード（BSC）を導入</strong>し、部門の将来展望を可視化。資格・認定取得を奨励し、8年間で取得数を約10件から69件へ増加させた。電子カルテ上に医薬品情報HPを開設し、情報共有を徹底することで業務を効率化。",
-      "impact": "薬剤師技術料収入が8年間で約2000万円/年から<strong class=\"text-teal-700\">6000万円/年超へと3倍に増加</strong>。人材が定着・成長し、院内外での評価も飛躍的に向上した。"
-    },
-    "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2016/04/20160415kumamoto.pdf",
-    "awardLink": "https://www.jcho.go.jp/wp-content/uploads/2016/04/20160415kumamoto.pdf"
-  }
+    "jcho28": {
+        "title": "薬剤部門の革新とその劇的な業務改善",
+        "hospital": "JCHO熊本総合病院",
+        "tags": ["f12", "f11", "f17", "f1"],
+        "icon": "fa-solid fa-arrow-up-from-bracket",
+        "summary": "ベテラン薬剤師の退職と長時間残業で士気が低下した薬剤部門で、BSCを導入し部門の将来像を可視化。資格取得奨励や情報共有徹底で、8年間で技術料収入を3倍に増加させ、人材定着と評価向上を達成。",
+        "details": {
+            "challenge": "ベテラン薬剤師の退職が相次ぎ、若手中心の体制に。長時間残業が常態化し、部門の士気が低下していた。",
+            "objective": "①人材の確保・育成、②部門収益の確保、③院内外での評価向上。",
+            "method": "<strong class=\"text-lime-800\">バランス・スコアカード（BSC）</strong>を導入し、部門の将来展望を可視化。資格・認定取得を奨励し、8年間で取得数を約10件から69件へ増加させた。電子カルテ上に<strong class=\"text-lime-800\">医薬品情報HPを開設</strong>し、情報共有を徹底することで業務を効率化。",
+            "impact": "薬剤師技術料収入が8年間で約2000万円/年から<strong class=\"text-teal-700\">6000万円/年超へと3倍に増加</strong>。人材が定着・成長し、院内外での評価も飛躍的に向上した。"
+        },
+        "pdfLink": "https://www.jcho.go.jp/wp-content/uploads/2016/04/20160415kumamoto.pdf"
+    }
 }
+
