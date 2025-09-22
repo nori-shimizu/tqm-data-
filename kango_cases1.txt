@@ -1,0 +1,452 @@
+{
+    "cr1": {
+        "title": "ポリバレントナース育成による動的な人員配置",
+        "hospital": "熊本地域医療センター",
+        "tags": ["f9", "f10", "f17"],
+        "icon": "fa-solid fa-people-arrows-left-right",
+        "summary": "「ユニフォーム2色制」と「ポリバレントナース育成」を導入。深夜残業をほぼゼロにし、部署間の協力体制と定時退勤への意識を強化。",
+        "details": {
+            "challenge": "<strong class=\"text-rose-600\">時間外勤務の常態化</strong>と硬直的な人員配置。特定部署への業務集中と<strong class=\"text-rose-600\">定時退勤しにくい文化</strong>があった。",
+            "objective": "突発的な業務増に柔軟に対応可能な人員体制を構築し、<strong class=\"text-teal-700\">定時退勤への意識を向上させる</strong>こと。",
+            "method": "「ユニフォーム2色制」（日勤/夜勤の色分け）と<strong class=\"text-lime-800\">「ポリバレントナース育成」</strong>による動的リソースの創出。",
+            "impact": "<strong class=\"text-teal-700\">深夜残業がほぼゼロに</strong>。定時退勤への意識向上、<strong class=\"text-teal-700\">部署間協力体制の強化</strong>が実現した。"
+        },
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/d01_kumamoto.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/%e3%80%8c%e3%83%a6%e3%83%8b%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a02%e8%89%b2%e5%88%b6%e3%80%8d%e3%81%a8%e3%80%8c%e3%83%9d%e3%83%aa%e3%83%90%e3%83%ac%e3%83%b3%e3%83%88%e3%83%8a%e3%83%bc%e3%82%b9%e8%82%b2/"
+    },
+    "cr2": {
+        "title": "電子カルテ最適化とパートナー制による記録時間削減",
+        "hospital": "県立広島病院",
+        "tags": ["f1"],
+        "icon": "fa-solid fa-file-medical",
+        "summary": "電子カルテの「セット展開機能」とベッドサイドでの「リアルタイム記録」を導入。月平均残業を33.7時間から9.6時間に大幅削減。",
+        "details": {
+            "challenge": "看護記録に費やされる膨大な時間外勤務（<strong class=\"text-rose-600\">月平均33.7時間</strong>）、リアルタイム記録率の低さ。",
+            "objective": "電子カルテ機能を最適化し、記録時間を大幅に削減して、<strong class=\"text-teal-700\">看護の質の向上に時間を再配分する</strong>こと。",
+            "method": "電子カルテの<strong class=\"text-lime-800\">「セット展開機能」活用</strong>と、ベッドサイドでの<strong class=\"text-lime-800\">「リアルタイム記録」を可能にするパートナー制</strong>の導入。",
+            "impact": "月平均時間外勤務が<strong class=\"text-teal-700\">33.7h→9.6hに削減</strong>。リアルタイム記録率が<strong class=\"text-teal-700\">30%→77%に向上</strong>。創出された時間で勉強会やカンファレンスが大幅増。"
+        },
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/d02_hiroshima.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/%e7%9c%8b%e8%ad%b7%e8%a8%98%e9%8c%b2%e3%81%に%e8%a6%81%e3%81%99%e3%82%8b%e6%99%82%e9%96%93%e5%89%8a%e6%b8%9b%e3%81%ae%e5%8a%b9%e7%8e%87%e5%8c%96%e3%81%b8%e3%81%ae%e5%8f%96%e3%82%8a%e7%b5%84%e3%81%bf/",
+        "chartConfig": {
+            "id": "cr2-chart",
+            "title": "月平均時間外勤務の削減効果",
+            "type": "bar",
+            "data": {
+                "labels": ["改善前", "改善後"],
+                "datasets": [{
+                    "label": "月平均時間外勤務 (時間)",
+                    "data": [33.7, 9.6],
+                    "backgroundColor": ["rgba(251, 113, 133, 0.6)", "rgba(20, 184, 166, 0.6)"],
+                    "borderColor": ["rgba(251, 113, 133, 1)", "rgba(20, 184, 166, 1)"],
+                    "borderWidth": 1
+                }]
+            },
+            "options": {
+                "responsive": true,
+                "maintainAspectRatio": false,
+                "plugins": { "legend": { "display": false } },
+                "scales": { "y": { "beginAtZero": true, "ticks": { "callback": "value + ' h'" } } }
+            }
+        }
+    },
+    "cr3": {
+        "title": "病棟薬剤師への薬剤管理業務タスク・シフト",
+        "hospital": "HITO病院",
+        "tags": ["f12", "f9"],
+        "icon": "fa-solid fa-person-digging",
+        "summary": "薬剤管理業務を病棟薬剤師へタスク・シフト。看護師の薬剤管理時間を最大108分/日削減し、薬剤関連インシデントをゼロに。",
+        "details": {
+            "challenge": "夜勤前の配薬準備など、<strong class=\"text-rose-600\">看護師による薬剤管理業務の負担</strong>、薬剤関連インシデントの発生。",
+            "objective": "薬剤管理業務を薬剤師へ適正にタスク・シフトし、看護師の負担を軽減するとともに、<strong class=\"text-teal-700\">薬剤の安全管理を徹底する</strong>こと。",
+            "method": "<strong class=\"text-sky-800\">病棟薬剤師</strong>への薬剤管理業務のタスク・シフト（内服薬セット、常備薬管理など）。",
+            "impact": "看護師の薬剤管理時間が最大<strong class=\"text-teal-700\">108分/日削減</strong>。薬剤管理インシデントが<strong class=\"text-teal-700\">8件→0件に減少</strong>。"
+        },
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/d03_hito.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/%e7%97%85%e6%a3%9f%e8%96%ac%e5%89%a4%e5%b8%ab%e3%81%a8%e3%81%ae%e5%bd%b9%e5%89%b2%e5%a7%94%e8%ad%b2%e3%83%bb%e5%8d%94%e5%83%8d%e3%81%に%e3%82%88%e3%82%8b%e7%97%85%e6%a3%9f%e8%96%ac%e5%89%a4%e7%ae%a1/"
+    },
+    "cr4": {
+        "title": "スマホ音声入力による訪問先での記録完結",
+        "hospital": "訪問看護リハビリステーションアオアクア",
+        "tags": ["f1"],
+        "icon": "fa-solid fa-mobile-screen-button",
+        "summary": "職員にスマホを貸与し、音声入力で電子カルテへ直接記録。看護職の月平均残業を50時間から20時間に削減し、記録の質も向上。",
+        "details": {
+            "challenge": "全ての訪問を終えてからの記録業務による<strong class=\"text-rose-600\">時間外勤務の常態化（月平均50時間）</strong>。",
+            "objective": "訪問中の隙間時間を活用した記録体制を確立し、<strong class=\"text-teal-700\">残業時間を大幅に削減する</strong>こと。",
+            "method": "職員への<strong class=\"text-lime-800\">スマートフォン貸与</strong>と<strong class=\"text-lime-800\">音声入力機能</strong>を用いた電子カルテへの直接記録。",
+            "impact": "看護職の月平均残業が<strong class=\"text-teal-700\">50h→20hに削減</strong>。ケア直後の記録により、記録の質が向上し、<strong class=\"text-teal-700\">多職種カンファレンス時間が増加</strong>。"
+        },
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/d04_aoaqua.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/%e9%9f%b3%e5%a3%b0%e5%85%a5%e5%8a%9b%e3%81%a7%e6%99%82%e9%96%93%e7%9f%ad%e7%b8%ae-%e6%ae%8b%e6%a5%ad%e3%82%92%e6%b8%9b%e3%82%89%e3%81%9d%e3%81%86/",
+        "chartConfig": {
+            "id": "cr4-chart",
+            "title": "月平均残業時間の削減効果",
+            "type": "bar",
+            "data": {
+                "labels": ["改善前", "改善後"],
+                "datasets": [{
+                    "label": "月平均残業時間 (時間)",
+                    "data": [50, 20],
+                    "backgroundColor": ["rgba(251, 113, 133, 0.6)", "rgba(20, 184, 166, 0.6)"],
+                    "borderColor": ["rgba(251, 113, 133, 1)", "rgba(20, 184, 166, 1)"],
+                    "borderWidth": 1
+                }]
+            },
+            "options": {
+                "responsive": true,
+                "maintainAspectRatio": false,
+                "plugins": { "legend": { "display": false } },
+                "scales": { "y": { "beginAtZero": true, "ticks": { "callback": "value + ' h'" } } }
+            }
+        }
+    },
+    "cr5": {
+        "title": "「看護クラーク科」設立による事務業務の集約",
+        "hospital": "メディカルトピア草加病院",
+        "tags": ["f9", "f16"],
+        "icon": "fa-solid fa-user-pen",
+        "summary": "独立した「看護クラーク科」を立ち上げ事務業務を一元管理。手術室看護師の業務負担を週35時間軽減し、月平均残業を16h→9hに削減。",
+        "details": {
+            "challenge": "看護師が担う<strong class=\"text-rose-600\">事務業務や物品管理業務の負担</strong>が大きく、本来の患者ケアに集中できない状況。",
+            "objective": "事務業務を体系的に移管・一元管理することで、看護師の非専門業務負担を軽減し、<strong class=\"text-teal-700\">専門性を高める</strong>こと。",
+            "method": "従来看護部が管理していたクラークを、独立した<strong class=\"text-lime-800\">「看護クラーク科」として立ち上げ、業務を一元管理</strong>。",
+            "impact": "手術室看護師の業務負担が<strong class=\"text-teal-700\">週35時間軽減</strong>。月平均残業が<strong class=\"text-teal-700\">16h→9hに削減</strong>。看護師が患者ケア・アセスメントに集中可能に。"
+        },
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/d05_souka.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/%e5%b0%8f%e8%a6%8f%e6%a8%a1%e7%97%85%e9%99%a2%e3%81%に%e3%81%8a%e3%81%91%e3%82%8b%e7%9c%8b%e8%ad%b7%e3%82%af%e3%83%a9%e3%83%bc%e3%82%ク%e7%a7%91%e3%81%ae%e7%ab%8b%e3%81%a1%e4%b8%8a%e3%81%92%e3%83%bb/"
+    },
+    "cr6": {
+        "title": "外来・病棟の一元化による連携強化",
+        "hospital": "小松市民病院",
+        "tags": ["f8", "f9", "f10"],
+        "icon": "fa-solid fa-building-user",
+        "summary": "関連診療科の外来・病棟を一体化し、看護師がローテーションする体制を構築。外来看護師の月平均残業を半減させ、患者ケアの継続性を向上。",
+        "details": {
+            "challenge": "<strong class=\"text-rose-600\">外来と病棟間の連携不足</strong>による情報分断、外来看護師の硬直的な人員配置と時間外勤務。",
+            "objective": "組織の壁を取り払い、<strong class=\"text-teal-700\">柔軟な人員配置と患者情報の一貫性を実現する</strong>こと。",
+            "method": "関連する診療科の<strong class=\"text-lime-800\">外来・病棟の一元化体制を構築</strong>し、看護師が両部署をローテーションする仕組みを導入。",
+            "impact": "外来看護師の月平均時間外勤務が<strong class=\"text-teal-700\">7.4h→3.2hに半減</strong>。患者ケアの継続性が向上し、<strong class=\"text-teal-700\">患者満足度が向上</strong>。"
+        },
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/d06_komatsu.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/%e5%a4%96%e6%9d%a5%e7%97%85%e6%a3%9f%e4%b8%80%e5%85%83%e5%8c%96%e3%81%に%e3%82%88%e3%82%8b%e5%8b%a4%e5%8b%99%e7%92%b0%e5%a2%83%e6%94%b9%e5%96%84/"
+    },
+    "cr7": {
+        "title": "音声入力導入による記録業務の効率化",
+        "hospital": "聖マリアンナ医科大学病院",
+        "tags": ["f1"],
+        "icon": "fa-solid fa-microphone-lines",
+        "summary": "「ナースハッピープロジェクト」を通じて音声入力システムを導入。月平均残業を21.86h→10.92hに半減させ、直接ケア時間を4.6%増加。",
+        "details": {
+            "challenge": "看護記録に要する時間が<strong class=\"text-rose-600\">業務効率化の最大のボトルネック</strong>となっている状況。",
+            "objective": "音声入力システムを導入し、記録業務を効率化することで、<strong class=\"text-teal-700\">看護師の直接ケア時間を増加させる</strong>こと。",
+            "method": "<strong class=\"text-lime-800\">音声入力システム</strong>の導入を若手職員から普及させ、OJTで指導する<strong class=\"text-sky-800\">「ナースハッピープロジェクト」</strong>を実施。",
+            "impact": "月平均時間外勤務が<strong class=\"text-teal-700\">21.86h→10.92hに半減</strong>。直接ケア時間が<strong class=\"text-teal-700\">4.6%増加</strong>。"
+        },
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/d07_stmari.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/%e3%83%8a%e3%83%bc%e3%82%b9%e3%83%8f%e3%83%83%e3%83%94%e3%83%bc%e3%83%97%e3%83%ad%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%ef%bc%88nhp%ef%bc%89%ef%bd%9e%e9%9f%b3%e5%a3%b0%e5%85%a5%e5%8a%9b%e3%81%に/"
+    },
+    "cr8": {
+        "title": "ICTを活用したへき地での遠隔リハビリ連携",
+        "hospital": "佐呂間町立診療所クリニックさろま",
+        "tags": ["f9", "f13"],
+        "icon": "fa-solid fa-video",
+        "summary": "理学療法士不在のへき地で、ICT（ビデオ会議）を活用し町外の専門家と連携。患者のセルフケア能力を維持・向上させ、看護師のリハビリケア実践を支援。",
+        "details": {
+            "challenge": "へき地医療における<strong class=\"text-rose-600\">理学療法士（PT）の不在</strong>によるリハビリ指導の不足。",
+            "objective": "ICTを活用して町外の専門家と連携し、<strong class=\"text-teal-700\">リハビリケアの質を担保する</strong>こと。",
+            "method": "<strong class=\"text-lime-800\">ICT（ビデオ会議システム）</strong>を活用した町外PTとの<strong class=\"text-sky-800\">遠隔連携体制</strong>を構築。",
+            "impact": "介入患者4名中3名が<strong class=\"text-teal-700\">セルフケア能力を維持・向上</strong>。看護師が自信を持ってリハビリケアを実践可能に。"
+        },
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/d08_saroma.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/%e3%81%b8%e3%81%8d%e5%9c%b0%e3%81%に%e3%81%8a%e3%81%91%e3%82%8bict%e3%82%92%e6%b4%活%e7%94%a8%e3%81%97%e3%81%9f%e5%a4%9a%e8%81%b7%e7%a8%ae%e9%80%a3%e6%90%ba/"
+    },
+    "cr9": {
+        "title": "IoTによる手術器械の滅菌管理効率化",
+        "hospital": "福井大学医学部附属病院",
+        "tags": ["f16", "f13"],
+        "icon": "fa-solid fa-microchip",
+        "summary": "約3万点の鋼製小物に2次元コードを刻印し、IoT滅菌管理システムを導入。器械組立時間を45%、組立ミスを60%、滅菌管理部の残業を80%削減。",
+        "details": {
+            "challenge": "手術器械の滅菌管理業務における<strong class=\"text-rose-600\">非効率性</strong>、手作業による<strong class=\"text-rose-600\">組立エラーの発生</strong>。",
+            "objective": "IoT技術を活用し、手術器械のトレーサビリティを確立することで、<strong class=\"text-teal-700\">管理業務を効率化し安全性を向上させる</strong>こと。",
+            "method": "約30,000点の鋼製小物に2次元コードを刻印し、総合滅菌管理システム「Aries」<strong class=\"text-lime-800\">(IoT)</strong>を導入。",
+            "impact": "器械組立時間が<strong class=\"text-teal-700\">45%短縮</strong>、組立ミスが<strong class=\"text-teal-700\">60%減少</strong>。滅菌管理部の残業が<strong class=\"text-teal-700\">80%削減</strong>。"
+        },
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/d10_fukuiuniv.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/%e7%b7%8f%e5%90%88%e6%bb%85%e8%8f%8c%e7%ae%a1%e7%90%86%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e3%81%に%e3%82%88%e3%82%8b%e5%8a%b4%e5%83%8d%e7%94%9f%e7%94%a3%e6%80%a7%e3%81%ae%e5%90%91%e4%b8%8a%e3%81%a8/",
+        "chartConfig": {
+            "id": "cr9-chart",
+            "title": "業務改善効果",
+            "type": "bar",
+            "data": {
+                "labels": ["組立時間短縮", "組立ミス減少", "残業削減"],
+                "datasets": [{
+                    "label": "削減率 (%)",
+                    "data": [45, 60, 80],
+                    "backgroundColor": "rgba(20, 184, 166, 0.6)",
+                    "borderColor": "rgba(20, 184, 166, 1)",
+                    "borderWidth": 1
+                }]
+            },
+            "options": {
+                "responsive": true,
+                "maintainAspectRatio": false,
+                "indexAxis": "y",
+                "plugins": { "legend": { "display": false } },
+                "scales": { "x": { "beginAtZero": true, "ticks": { "callback": "value + '%'" } } }
+            }
+        }
+    },
+    "cr10": {
+        "title": "RPA導入による看護部人事資料作成の自動化",
+        "hospital": "NTT東日本関東病院",
+        "tags": ["f1", "f11"],
+        "icon": "fa-solid fa-robot",
+        "summary": "RPAを導入し、看護部の人事資料作成を完全自動化。月3〜4時間の作業が5分に短縮され、年間最大48時間の工数を削減。",
+        "details": {
+            "challenge": "看護管理者が行う月次の人員管理データ集計・資料作成業務（<strong class=\"text-rose-600\">定型的・反復的</strong>）の負担。",
+            "objective": "RPAを用いて定型的な事務作業を自動化し、<strong class=\"text-teal-700\">管理者の時間を戦略的な業務検討に解放する</strong>こと。",
+            "method": "<strong class=\"text-lime-800\">RPA導入</strong>による看護部人事資料作成の完全自動化。",
+            "impact": "月3～4時間かかっていた作業が<strong class=\"text-teal-700\">5分に短縮</strong>。年間最大<strong class=\"text-teal-700\">48時間の工数削減</strong>。転記・計算ミスがゼロに。"
+        },
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/d09_nttek.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/rpa%ef%bc%88%e3%83%ad%e3%83%9d%e3%83%83%e3%83%88%e3%81%に%e3%82%88%e3%82%8b%e6%a5%ad%e5%8b%99%e8%87%aa%e5%8b%95%e5%8c%96%ef%bc%89%e5%b0%8e%e5%85%a5%e3%81%に%e3%82%88%e3%82%8b%e7%9c%8b%e8%ad%b7/"
+    },
+    "cr11": {
+        "title": "携帯エコーとICTによる在宅での医師連携強化",
+        "hospital": "訪問看護ステーションフレンズ",
+        "tags": ["f9", "f4", "f2"],
+        "icon": "fa-solid fa-wifi",
+        "summary": "携帯型エコーと地域医療連携ICTを活用。医師とのタイムリーな画像共有により、迅速で適切な在宅ケア介入を実現。",
+        "details": {
+            "challenge": "訪問看護における<strong class=\"text-rose-600\">フィジカルアセスメントの限界</strong>、遠隔地での<strong class=\"text-rose-600\">医師との連携遅延</strong>。",
+            "objective": "ICTを活用し、医師とタイムリーに情報を共有することで、<strong class=\"text-teal-700\">迅速かつ適切なケア介入を実現する</strong>こと。",
+            "method": "<strong class=\"text-lime-800\">携帯型エコー</strong>と<strong class=\"text-lime-800\">地域医療連携ネットワークICT</strong>の活用。",
+            "impact": "医師とのタイムリーな画像共有により、<strong class=\"text-teal-700\">迅速で適切なケア介入が可能に</strong>。"
+        },
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/A_1_0317_kangokyoukai2020_stationfrends.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/%e8%a8%aa%e5%95%8f%e7%9c%8b%e8%ad%b7%e3%81%に%e3%81%8a%e3%81%91%e3%82%8b%e3%82%a8%e3%82%b3%e3%83%bc%e3%81%に%e3%82%88%e3%82%8b%e3%82%a2%e3%82%bb%e3%82%b9%e3%83%a1%e3%83%b3%e3%83%88%e5%b0%8e%e5%85%a5/"
+    },
+    "cr12": {
+        "title": "周術期看護の確立による手術室看護師の負担軽減",
+        "hospital": "廣島総合病院",
+        "tags": ["f10", "f9", "f8"],
+        "icon": "fa-solid fa-bed-pulse",
+        "summary": "夜勤二交代制の導入と病棟・手術室間の連携強化により周術期看護を確立。継続的な患者支援を実現し、看護師の連携意識が向上。",
+        "details": {
+            "challenge": "手術室看護師の<strong class=\"text-rose-600\">長時間労働</strong>、周術期における<strong class=\"text-rose-600\">病棟と手術室の情報分断</strong>。",
+            "objective": "周術期看護のプロセスを標準化し、手術室看護師の業務負担を軽減するとともに、<strong class=\"text-teal-700\">継続的な患者支援を実現する</strong>こと。",
+            "method": "<strong class=\"text-lime-800\">夜勤二交代制</strong>の導入と、<strong class=\"text-sky-800\">病棟看護師と手術室看護師間の連携強化</strong>による周術期看護の確立。",
+            "impact": "術前訪問実施率が向上。病棟・手術室看護師の連携意識が高まり、<strong class=\"text-teal-700\">継続的な患者支援が実現</strong>。"
+        },
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/A_2_0317_kangokyoukai2020_hiroshima.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/%e3%83%81%e3%83%bc%e3%83%a0%e5%8c%bb%e7%99%82%e3%81%に%e3%82%88%e3%82%8b%e6%96%b0%e3%81%9f%e3%81%aa%e6%89%8b%e8%a1%93%e5%ae%a4%e9%81%8b%e5%96%b6%e6%96%b9%e6%b3%95%e3%81%ae%e7%a2%ba%e7%ab%8b%ef%bd%9e/"
+    },
+    "cr13": {
+        "title": "ICTツールの最大活用による訪問看護の効率化",
+        "hospital": "みんなのかかりつけ訪問看護ステーション",
+        "tags": ["f1", "f10", "f15"],
+        "icon": "fa-solid fa-house-laptop",
+        "summary": "スマホ、チャット、Web会議などのICTツールを最大活用。事務所に戻らず業務が完結し、リアルタイムな情報共有でケアの質と速度が向上。",
+        "details": {
+            "challenge": "訪問以外の<strong class=\"text-rose-600\">事務作業や移動時間による業務負担</strong>、事務所に戻る必要性。",
+            "objective": "ICTツールを最大限に活用し、<strong class=\"text-teal-700\">事務所に戻らず業務を完結</strong>させ、リアルタイムな情報共有を実現すること。",
+            "method": "<strong class=\"text-lime-800\">ICTツール（スマホ、チャット、Web会議）</strong>の最大活用による業務効率化。",
+            "impact": "事務所に戻らず業務が完結。<strong class=\"text-teal-700\">リアルタイムな情報共有でケアの質と速度が向上</strong>。"
+        },
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/A_3_0317_kangokyoukai2020_minnano.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/ict%e3%83%84%e3%83%bc%e3%83%abx%e3%82%a6%e3%82%a8%e3%83%96%e4%bc%9a%e8%ad%b0%e6%9c%80%e5%a4%a7%e6%b4%bb%e7%94%a8%e3%81%に%e3%82%88%e3%82%8b%e6%a5%ad%e5%8b%99%e5%8a%b9%e7%8e%87%e5%8c%96%e3%81%b8/"
+    },
+    "cr14": {
+        "title": "入退院支援プロセスの統合による早期介入",
+        "hospital": "公立羽咋病院",
+        "tags": ["f8", "f9", "f1"],
+        "icon": "fa-solid fa-right-left",
+        "summary": "外来でのスクリーニングと看護計画立案を統合。入院直後からの早期介入を可能にし、多職種間の情報共有を円滑化。",
+        "details": {
+            "challenge": "入院時・退院時の支援プロセスにおける<strong class=\"text-rose-600\">情報分断</strong>と、<strong class=\"text-rose-600\">早期介入の遅れ</strong>。",
+            "objective": "入退院支援プロセスを統合し、外来段階で得た情報を看護計画に直結させることで、<strong class=\"text-teal-700\">早期介入を可能にする</strong>こと。",
+            "method": "<strong class=\"text-lime-800\">外来でのスクリーニングと看護計画立案の統合</strong>。",
+            "impact": "<strong class=\"text-teal-700\">入院直後からの早期介入が可能に</strong>。多職種間の情報共有が円滑化。"
+        },
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/A_4_0317_kangokyoukai2020_hakui.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/%e5%85%a5%e9%80%80%e9%99%a2%e6%94%af%e6%8f%b4%e3%81%ae%e6%b4%bb%e5%8b%95%e3%81%8b%e3%82%89%e3%81%a4%e3%81%aa%e3%81%90%e7%9c%8b%e8%ad%b7%e3%81%b8%ef%bc%8d%e5%a4%96%e6%9d%a5%e3%81%a7%e3%81%ae%e3%82%b9/"
+    },
+    "cr15": {
+        "title": "オンライン面会導入による負担軽減とケアの計画化",
+        "hospital": "柏葉脳神経外科病院",
+        "tags": ["f6", "f1"],
+        "icon": "fa-solid fa-hospital-user",
+        "summary": "オンライン診療システムを活用してオンライン面会を導入。予約調整業務の自動化で看護師の負担を軽減し、面会に合わせた計画的なケアを可能に。",
+        "details": {
+            "challenge": "コロナ禍における面会制限による<strong class=\"text-rose-600\">患者・家族の精神的不安</strong>と、それに対する<strong class=\"text-rose-600\">看護師の業務負担</strong>。",
+            "objective": "ICTを活用したオンライン面会を実施し、患者・家族の安心感を高めるとともに、<strong class=\"text-teal-700\">面会関連の事務負担を軽減する</strong>こと。",
+            "method": "<strong class=\"text-lime-800\">オンライン診療システムを活用したオンライン面会</strong>の導入。",
+            "impact": "<strong class=\"text-teal-700\">予約調整業務を自動化</strong>し看護師の負担軽減。面会時間に合わせた<strong class=\"text-teal-700\">計画的なケアが可能に</strong>。"
+        },
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/A_5_0317_kangokyoukai2020_kashiwab-1.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/%e3%82%a6%e3%82%a3%e3%82%ba%e3%82%b3%e3%83%ad%e3%83%8a%e3%81%a7ict%e4%bf%83%e9%80%b2%ef%bc%81%ef%bd%9e%e6%82%a3%e8%80%85%e3%81%a8%e5%ae%b6%e6%97%8f%e3%82%92%e3%81%a4%e3%81%na%e3%81%90%e3%82%aa/"
+    },
+    "cr16": {
+        "title": "排尿ケアチームによるカテーテル管理適正化",
+        "hospital": "埼玉石心会病院",
+        "tags": ["f7", "f9"],
+        "icon": "fa-solid fa-user-doctor",
+        "summary": "多職種による排尿ケアチームを立ち上げ早期介入。膀胱留置カテーテルの平均留置日数を6.69日から5.83日に短縮し、患者QOLを向上。",
+        "details": {
+            "challenge": "不適切な膀胱留置カテーテル管理による<strong class=\"text-rose-600\">患者QOL低下</strong>、看護師の負担。",
+            "objective": "専門チームによる集中的な介入を行い、膀胱留置カテーテルの使用期間を短縮し、<strong class=\"text-teal-700\">患者QOLを向上させる</strong>こと。",
+            "method": "<strong class=\"text-sky-800\">多職種による排尿ケアチームの立ち上げ</strong>と早期介入。",
+            "impact": "膀胱留置カテーテル平均留置日数が<strong class=\"text-teal-700\">6.69日→5.83日に減少</strong>。早期介入により<strong class=\"text-teal-700\">患者のQOL向上</strong>、看護師の精神的負担軽減。"
+        },
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/A_6_0317_kangokyoukai2020_saitama.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/%e6%8e%92%e5%b0%bf%e3%82%b1%e3%82%a2%e3%83%81%e3%83%bc%e3%83%a0%e3%81%ae%e7%ab%8b%e3%81%a1%e4%b8%8a%e3%81%92%ef%bd%9e%e6%82%a3%e8%80%85%e3%81%aeqol%e5%90%91%e4%b8%8a%e3%82%92%e7%9b%ae%e6%8c%87/"
+    },
+    "cr17": {
+        "title": "共同作業による看護師・ケアワーカー間の連携強化",
+        "hospital": "柳原病院",
+        "tags": ["f9", "f10"],
+        "icon": "fa-solid fa-handshake-angle",
+        "summary": "誤嚥性肺炎予防の共同体操や申し送りへの参加を通じ、看護師とケアワーカーの連携を強化。看護師の時間外労働を月平均10h→4〜6hに削減。",
+        "details": {
+            "challenge": "看護師とケアワーカー間における役割意識と<strong class=\"text-rose-600\">「心の壁」による連携不足</strong>。",
+            "objective": "共同作業を通じて職種間の相互理解を深め、<strong class=\"text-teal-700\">円滑な協働体制を構築する</strong>こと。",
+            "method": "誤嚥性肺炎予防のための<strong class=\"text-lime-800\">共同作業（パタカラ体操）</strong>の実施と、ケアワーカーの看護師の朝の申し送りへの参加。",
+            "impact": "看護師の時間外労働が<strong class=\"text-teal-700\">月平均10h→4～6hに減少</strong>。職種間の壁がなくなり<strong class=\"text-teal-700\">チームワークが向上</strong>。"
+        },
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/A_7_0317_kangokyoukai2020_yanagihara.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/%e8%81%b7%e7%a8%ae%e9%96%93%e3%81%に%e3%81%8a%e3%81%84%e3%81%a6%e5%8d%94%e5%83%8d%e6%84%8f%e8%ad%98%e3%82%92%e7%94%9f%e3%81%bf%e5%87%ba%e3%81%99%e5%8f%96%e3%82%8a%e7%b5%84%e3%81%bf/"
+    },
+    "cr18": {
+        "title": "「時間外支援夜勤」導入による夜勤業務の分担",
+        "hospital": "名手病院",
+        "tags": ["f9", "f17"],
+        "icon": "fa-solid fa-moon",
+        "summary": "時間外外来や繁忙時間帯の応援を専門に行う「時間外支援夜勤」を導入。夜勤者の平均仮眠時間を増やし、時間外患者数も増加して収益に貢献。",
+        "details": {
+            "challenge": "夜勤看護師が病棟業務に加え、時間外外来・救急対応を兼務することによる<strong class=\"text-rose-600\">業務過多と仮眠不足</strong>。",
+            "objective": "夜勤帯の業務を分担し、病棟看護師の負担を軽減し、<strong class=\"text-teal-700\">適切な休憩時間を確保する</strong>こと。",
+            "method": "<strong class=\"text-lime-800\">「時間外支援夜勤」制度の導入</strong>（患者を受け持たず、時間外外来や繁忙時間帯の応援を専門に行う）。",
+            "impact": "夜勤者の平均仮眠時間が<strong class=\"text-teal-700\">67.5分→80分に増加</strong>。時間外患者数が<strong class=\"text-teal-700\">月25名→40名に増加</strong>し、収益にも貢献。"
+        },
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/A_8_0317_kangokyoukai2020_nate.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/%e6%99%82%e9%96%93%e5%a4%96%e6%94%af%e6%8f%b4%e5%a4%9c%e5%8b%a4%e3%81%ae%e5%b0%8e%e5%85%a5%ef%bc%8d%e9%95%b7%e5%b9%b4%e8%aa%b2%e9%a1%8c%e3%81%a0%e3%81%a3%e3%81%9f%e7%9c%8b%e8%ad%b7%e5%b8%ab%e3%81%ae/"
+    },
+    "cr19": {
+        "title": "肩・上肢手術用「特殊術後病衣」の開発",
+        "hospital": "浜脇整形外科病院",
+        "tags": ["f7", "f6"],
+        "icon": "fa-solid fa-shirt",
+        "summary": "肩・上肢手術用の肩開閉式病衣を開発。処置時の衣服着脱時間を4〜5分から1分に短縮し、患者の苦痛と羞恥心を軽減。",
+        "details": {
+            "challenge": "肩・上肢手術後の患者の<strong class=\"text-rose-600\">更衣や処置時の苦痛</strong>、およびそれに伴う看護師の<strong class=\"text-rose-600\">処置時間の長期化</strong>。",
+            "objective": "術後の処置を容易にする病衣を開発・導入することで、<strong class=\"text-teal-700\">患者の苦痛と羞恥心、看護師の作業時間を軽減する</strong>こと。",
+            "method": "肩・上肢手術用の<strong class=\"text-lime-800\">特殊術後病衣（肩開閉式）を開発・導入</strong>。",
+            "impact": "処置時の衣服着脱時間が<strong class=\"text-teal-700\">4～5分→1分に短縮</strong>。<strong class=\"text-teal-700\">患者の苦痛と羞恥心を軽減</strong>。"
+        },
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/A_9_0317_kangokyoukai2020_hamawaki.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/%e6%95%b4%e5%bd%a2%e5%a4%96%e7%a7%91%e5%88%86%e9%87%8e%e3%81%に%e3%81%8a%e3%81%91%e3%82%8b%e8%a1%93%e5%be%8c%e7%97%85%e8%a1%a3%e3%81%ae%e5%b7%a5%e5%a4%ab/"
+    },
+    "cr20": {
+        "title": "障がい者就労支援企業へのベッドメイキング業務委託",
+        "hospital": "潤和会記念病院",
+        "tags": ["f9", "f17"],
+        "icon": "fa-solid fa-hands-holding-child",
+        "summary": "看護補助者の離職率対策として、障がい者就労支援企業へベッドメイキングを委託。全部署で時間外労働を月100時間削減し、障がい者雇用にも貢献。",
+        "details": {
+            "challenge": "看護補助者の<strong class=\"text-rose-600\">高い離職率</strong>による看護師のベッドメイキング等の<strong class=\"text-rose-600\">非専門業務負担</strong>。",
+            "objective": "非専門業務を外部に委託することで看護師の時間を解放し、<strong class=\"text-teal-700\">同時に社会的価値も創造する</strong>こと。",
+            "method": "<strong class=\"text-sky-800\">障がい者の就労支援企業</strong>と連携し、「障がい者ベッドメイキングチーム」への業務委託。",
+            "impact": "全部署で時間外労働が<strong class=\"text-teal-700\">月100時間程度削減</strong>。<strong class=\"text-teal-700\">障がい者の雇用創出にも貢献</strong>。"
+        },
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/A_10_0317_kangokyoukai2020_junwa.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/%e9%9a%9c%e3%81%8c%e3%81%84%e8%80%85%e3%83%99%e3%83%83%e3%83%89%e3%83%a1%e3%82%a4%e3%82%ad%e3%83%b3%e3%82%b0%e3%83%81%e3%83%bc%e3%83%a0%e5%a7%94%e8%a8%97%e6%a5%ad%e5%8b%99%e3%81%ae%e5%b0%8e%e5%85%a5/"
+    },
+    "cr21": {
+        "title": "特定行為研修修了看護師によるPICUでのタスク・シフト",
+        "hospital": "東京都立小児総合医療センター",
+        "tags": ["f9", "f4", "f7"],
+        "icon": "fa-solid fa-children",
+        "summary": "PICUに特定行為研修修了看護師を配置。医師の業務時間を年間420.9時間削減し、看護師の残業も削減、MDRPU発生率が28%減少。",
+        "details": {
+            "challenge": "PICU（小児集中治療室）での<strong class=\"text-rose-600\">医師の診療補助業務負担</strong>、それに伴う看護師の<strong class=\"text-rose-600\">待機時間の発生</strong>。",
+            "objective": "特定行為研修修了看護師によるタスク・シフト／シェアを推進し、<strong class=\"text-teal-700\">ケアのタイムリーな提供を実現する</strong>こと。",
+            "method": "<strong class=\"text-lime-800\">特定行為研修修了看護師</strong>によるタスク・シフト/シェア。",
+            "impact": "医師の業務時間を年間<strong class=\"text-teal-700\">420.9時間削減</strong>。看護師の月平均残業が<strong class=\"text-teal-700\">3.4h→2.0hに削減</strong>。MDRPU発生率が<strong class=\"text-teal-700\">28%減少</strong>。"
+        },
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/A_1d_kango2021_tokyoshouni.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/%e5%b0%8f%e5%85%90%e9%9b%86%e4%b8%ad%e6%b2%bb%e7%99%82%e5%ae%a4%e3%81%a7%e5%8f%96%e3%82%8a%e7%b5%84%e3%82%80%e7%89%b9%e5%ae%9a%e8%a1%8c%e7%82%ba%e5%ae%9f%e8%b7%b5%e3%81%a8%e3%82%bf%e3%82%b9%e3%82%af/"
+    },
+    "cr22": {
+        "title": "スマホ音声入力による非接触型記録体制の構築",
+        "hospital": "柏葉脳神経外科病院",
+        "tags": ["f1"],
+        "icon": "fa-solid fa-shield-virus",
+        "summary": "コロナ病棟で、各病室にスマホを配置し音声入力で記録を完結。感染リスクと職員の負担を軽減し、看護帳票の消費を月13,000枚削減。",
+        "details": {
+            "challenge": "コロナクラスター発生下での<strong class=\"text-rose-600\">紙記録による感染リスク</strong>、PPE着脱を伴うゾーン間の移動による<strong class=\"text-rose-600\">身体的・精神的負担</strong>。",
+            "objective": "記録方法を非接触型に転換し、<strong class=\"text-teal-700\">感染リスクと職員の負担を軽減する</strong>こと。",
+            "method": "各病室にスマートフォンを配置し、<strong class=\"text-lime-800\">音声入力による病室内での記録完結体制</strong>を構築。",
+            "impact": "看護帳票の消費量が<strong class=\"text-teal-700\">月13,000枚削減</strong>され、職員の<strong class=\"text-teal-700\">身体的・精神的負担を軽減</strong>。"
+        },
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/A_3d_kango2021_kashiwaba-1.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/%e6%96%b0%e5%9e%8b%e3%82%b3%e3%83%ad%e3%83%8a%e3%82%a6%e3%82%a4%e3%83%ab%e3%82%b9%e6%84%9f%e6%9f%93%e7%97%87%e3%82%af%e3%83%a9%e3%82%b9%e3%82%bf%e3%83%bc%e4%b8%8b%e3%81%a7%e3%81%ae%e7%9c%8b%e8%ad%b7/"
+    },
+    "cr23": {
+        "title": "包括的な業務プロセス改善による離職率の劇的低下",
+        "hospital": "広島シーサイド病院",
+        "tags": ["f17", "f16", "f7"],
+        "icon": "fa-solid fa-arrow-trend-down",
+        "summary": "排泄ケア用品やシーツの見直しなど包括的な業務改善を実施。離職率を26.8%から4.3%に劇的に低下させ、業務時間を180分/日削減。",
+        "details": {
+            "challenge": "高い離職率（<strong class=\"text-rose-600\">26.8%</strong>）、排泄ケアやシーツ交換などの<strong class=\"text-rose-600\">業務非効率</strong>、低い職員満足度。",
+            "objective": "包括的な業務プロセスの改善により、職員の負担を軽減し、<strong class=\"text-teal-700\">離職率を抜本的に改善する</strong>こと。",
+            "method": "排泄ケア用品・シーツ等の見直し（<strong class=\"text-lime-800\">ボックスシーツ導入、ディスポタオル化</strong>）による包括的な業務改善。",
+            "impact": "離職率が<strong class=\"text-teal-700\">26.8%→4.3%に低下</strong>。業務時間を<strong class=\"text-teal-700\">180分/日削減</strong>、年間<strong class=\"text-teal-700\">354万円のコスト削減</strong>。"
+        },
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/A_2d_kango2021_hiroshima.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/%e6%94%b9%e5%96%84%e6%b4%bb%e5%8b%95%e3%81%ae%e6%8e%a8%e9%80%b2%e3%81%に%e3%82%88%e3%82%8b%e5%83%8d%e3%81%8d%e7%b6%9a%e3%81%91%e3%82%89%e3%82%8c%e3%82%8b%e8%81%b7%e5%a0%b4%e7%92%b0%e5%a2%83%e3%81%a5/",
+        "chartConfig": {
+            "id": "cr23-chart",
+            "title": "離職率の改善効果",
+            "type": "doughnut",
+            "data": {
+                "labels": ["改善前 離職者", "改善前 在籍者", "改善後 離職者", "改善後 在籍者"],
+                "datasets": [{
+                    "label": "離職率",
+                    "data": [26.8, 73.2],
+                    "backgroundColor": ["rgba(251, 113, 133, 0.6)", "rgba(251, 113, 133, 0.1)"],
+                    "circumference": 180,
+                    "rotation": 270
+                }, {
+                    "label": "離職率",
+                    "data": [4.3, 95.7],
+                    "backgroundColor": ["rgba(20, 184, 166, 0.6)", "rgba(20, 184, 166, 0.1)"],
+                    "circumference": 180,
+                    "rotation": 270
+                }]
+            },
+            "options": {
+                "responsive": true,
+                "maintainAspectRatio": false,
+                "plugins": { "legend": { "display": false } }
+            }
+        }
+    },
+    "cr24": {
+        "title": "「看護補助者ラダー」導入による定着率向上",
+        "hospital": "北里大学病院",
+        "tags": ["f17", "f11", "f9"],
+        "icon": "fa-solid fa-stairs",
+        "summary": "看護補助者の専門性向上とキャリアパス提供のため「看護補助者ラダー」を導入。1年以内の離職率を43.4%から15.8%に低下させ、定着を促進。",
+        "details": {
+            "challenge": "看護補助者の高い離職率（<strong class=\"text-rose-600\">1年以内43.4%</strong>）と定着率の低さ、看護師への<strong class=\"text-rose-600\">業務負担逆流</strong>。",
+            "objective": "看護補助者の専門性を高め、キャリアパスを提供することで、<strong class=\"text-teal-700\">定着を促し質の高い協働体制を築く</strong>こと。",
+            "method": "「看護補助者の拡大チーム」編成と、専門性向上を目的とした<strong class=\"text-lime-800\">「看護補助者ラダー」</strong>の導入。",
+            "impact": "離職率が<strong class=\"text-teal-700\">15.8%→11.7%に低下</strong>。有給休暇取得率が改善。"
+        },
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/A_4d_kango2021_kitazato.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/%e7%9c%8b%e8%ad%b7%e8%a3%9c%e5%8a%a9%e8%80%85%e3%81%ae%e9%80%80%e8%81%b7%e8%80%85%e6%b8%9b%e5%b0%91%e3%82%92%e7%9b%ae%e6%8c%87%e3%81%97%e3%81%9f%e3%80%8c%e7%9c%8b%e8%ad%b7%e8%a3%9c%e5%8a%a9%e8%80%85/"
+    }
+}
