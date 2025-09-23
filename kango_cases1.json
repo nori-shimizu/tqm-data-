@@ -16,7 +16,7 @@
             "impact": "<strong class=\"text-teal-700\">深夜残業がほぼゼロに</strong>。定時退勤への意識向上、<strong class=\"text-teal-700\">部署間協力体制の強化</strong>が実現した。"
         },
         "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/d01_kumamoto.pdf",
-        "awardLink": "https://kango-award.jp/archives/case/「ユニフォーム2色制」と「ポリバレントナース育成/"
+        "awardLink": "https://kango-award.jp/archives/case/「ユニフォーム2色制」と「ポリバレントナース育/"
     },
     "cr2": {
         "title": "電子カルテ最適化とパートナー制による記録時間削減",
@@ -100,7 +100,7 @@
         "awardLink": "https://kango-award.jp/archives/case/病棟薬剤師との役割委譲・協働による病棟薬剤管/"
     },
     "cr4": {
-        "title": "スマホ音声入力による訪問先での記録完結",
+        "title": "音声入力で時間短縮・残業を減らそう",
         "hospital": "訪問看護リハビリステーションアオアクア",
         "tags": [
             "f1"
@@ -163,7 +163,7 @@
         }
     },
     "cr5": {
-        "title": "「看護クラーク科」設立による事務業務の集約",
+        "title": "小規模病院における看護クラーク科の立ち上げ・看護クラークの一元管理による看護師負担軽減",
         "hospital": "メディカルトピア草加病院",
         "tags": [
             "f9",
@@ -181,7 +181,7 @@
         "awardLink": "https://kango-award.jp/archives/case/小規模病院における看護クラーク科の立ち上げ・/"
     },
     "cr6": {
-        "title": "外来・病棟の一元化による連携強化",
+        "title": "外来病棟一元化による勤務環境改善",
         "hospital": "小松市民病院",
         "tags": [
             "f8",
@@ -200,7 +200,7 @@
         "awardLink": "https://kango-award.jp/archives/case/外来病棟一元化による勤務環境改善/"
     },
     "cr7": {
-        "title": "音声入力導入による記録業務の効率化",
+        "title": "ナースハッピープロジェクト（NHP）看護師がハッピーに、やりがいを感じられる職場を",
         "hospital": "聖マリアンナ医科大学病院",
         "tags": [
             "f1"
@@ -217,7 +217,7 @@
         "awardLink": "https://kango-award.jp/archives/case/ナースハッピープロジェクト（nhp）～音声入力に/"
     },
     "cr8": {
-        "title": "ICTを活用したへき地での遠隔リハビリ連携",
+        "title": "さろまリハビリプロジェクト　へき地におけるICTを活用した多職種連携",
         "hospital": "佐呂間町立診療所クリニックさろま",
         "tags": [
             "f9",
@@ -235,7 +235,7 @@
         "awardLink": "https://kango-award.jp/archives/case/へき地におけるictを活用した多職種連携/"
     },
     "cr9": {
-        "title": "IoTによる手術器械の滅菌管理効率化",
+        "title": "総合滅菌管理システムAriesによる労働生産性の向上と働き方改革の実現",
         "hospital": "福井大学医学部附属病院",
         "tags": [
             "f16",
@@ -296,8 +296,8 @@
         }
     },
     "cr10": {
-        "title": "RPA導入による看護部人事資料作成の自動化",
-        "hospital": "NTT東日本関東病院",
+        "title": "RPA導入による看護管理業務の効率化",
+        "hospital": "ＮＴＴ東日本関東病院",
         "tags": [
             "f1",
             "f11"
@@ -550,57 +550,7 @@
             "impact": "離職率が<strong class=\"text-teal-700\">26.8%→4.3%に低下</strong>。業務時間を<strong class=\"text-teal-700\">180分/日削減</strong>、年間<strong class=\"text-teal-700\">354万円のコスト削減</strong>。"
         },
         "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/A_2d_kango2021_hiroshima.pdf",
-        "awardLink": "https://kango-award.jp/archives/case/改善活動の推進による働き続けられる職場環境づくり/",
-        "chartConfig": {
-            "id": "cr23-chart",
-            "title": "離職率の改善効果",
-            "type": "doughnut",
-            "data": {
-                "labels": [
-                    "改善前 離職者",
-                    "改善前 在籍者",
-                    "改善後 離職者",
-                    "改善後 在籍者"
-                ],
-                "datasets": [
-                    {
-                        "label": "離職率",
-                        "data": [
-                            26.8,
-                            73.2
-                        ],
-                        "backgroundColor": [
-                            "rgba(251, 113, 133, 0.6)",
-                            "rgba(251, 113, 133, 0.1)"
-                        ],
-                        "circumference": 180,
-                        "rotation": 270
-                    },
-                    {
-                        "label": "離職率",
-                        "data": [
-                            4.3,
-                            95.7
-                        ],
-                        "backgroundColor": [
-                            "rgba(20, 184, 166, 0.6)",
-                            "rgba(20, 184, 166, 0.1)"
-                        ],
-                        "circumference": 180,
-                        "rotation": 270
-                    }
-                ]
-            },
-            "options": {
-                "responsive": true,
-                "maintainAspectRatio": false,
-                "plugins": {
-                    "legend": {
-                        "display": false
-                    }
-                }
-            }
-        }
+        "awardLink": "https://kango-award.jp/archives/case/改善活動の推進による働き続けられる職場環境づ/"
     },
     "cr24": {
         "title": "看護補助者の退職者減少を目指した「看護補助者の拡大チーム」の編成と「看護補助者ラダー」の導入",
