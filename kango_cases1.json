@@ -12,7 +12,7 @@
             "impact": "<strong class=\"text-teal-700\">深夜残業がほぼゼロに</strong>。定時退勤への意識向上、<strong class=\"text-teal-700\">部署間協力体制の強化</strong>が実現した。"
         },
         "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/d01_kumamoto.pdf",
-        "awardLink": "https://kango-award.jp/archives/case/「ユニフォーム2色制」と「ポリバレントナース育成/"
+        "awardLink": "https://kango-award.jp/archives/case/「ユニフォーム2色制」と「ポリバレントナース育/"
     },
     "cr2": {
         "title": "電子カルテ最適化とパートナー制による記録時間削減",
@@ -174,7 +174,29 @@
             "impact": "器械組立時間が<strong class=\"text-teal-700\">45%短縮</strong>、組立ミスが<strong class=\"text-teal-700\">60%減少</strong>。滅菌管理部の残業が<strong class=\"text-teal-700\">80%削減</strong>。"
         },
         "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/d10_fukuiuniv.pdf",
-        "awardLink": "https://kango-award.jp/archives/case/総合滅菌管理システムによる労働生産性の向上と/"
+        "awardLink": "https://kango-award.jp/archives/case/総合滅菌管理システムによる労働生産性の向上と/",
+        "chartConfig": {
+            "id": "cr9-chart",
+            "title": "業務改善効果",
+            "type": "bar",
+            "data": {
+                "labels": ["組立時間短縮", "組立ミス減少", "残業削減"],
+                "datasets": [{
+                    "label": "削減率 (%)",
+                    "data": [45, 60, 80],
+                    "backgroundColor": "rgba(20, 184, 166, 0.6)",
+                    "borderColor": "rgba(20, 184, 166, 1)",
+                    "borderWidth": 1
+                }]
+            },
+            "options": {
+                "responsive": true,
+                "maintainAspectRatio": false,
+                "indexAxis": "y",
+                "plugins": { "legend": { "display": false } },
+                "scales": { "x": { "beginAtZero": true, "ticks": { "callback": "value + '%'" } } }
+            }
+        }
     },
     "cr10": {
         "title": "RPA導入による看護部人事資料作成の自動化",
@@ -384,7 +406,7 @@
             "impact": "離職率が<strong class=\"text-teal-700\">26.8%→4.3%に低下</strong>。業務時間を<strong class=\"text-teal-700\">180分/日削減</strong>、年間<strong class=\"text-teal-700\">354万円のコスト削減</strong>。"
         },
         "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/A_2d_kango2021_hiroshima.pdf",
-        "awardLink": "https://kango-award.jp/archives/case/改善活動の推進による働き続けられる職場環境づ/",
+        "awardLink": "https://kango-award.jp/archives/case/改善活動の推進による働き続けられる職場環境づくり/",
         "chartConfig": {
             "id": "cr23-chart",
             "title": "離職率の改善効果",
