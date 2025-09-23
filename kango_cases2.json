@@ -72,7 +72,7 @@
             "impact": "年間時間外業務が9,228時間から<strong class=\"text-teal-700\">5,420時間へと41%削減</strong>された。部署間の不公平感が緩和され、<strong class=\"text-teal-700\">助け合う文化が醸成</strong>された。"
         },
         "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2022/10/A_9d_kango2021_toubu.pdf",
-        "awardLink": "https://kango-award.jp/archives/case/%e7%9c%8b%e8%ad%b7%e9%83%a8%e5%83%8d%e3%81%8d%e6%96%b9%e6%94%b9%e9%9d%a9%e3%83%97%e3%83%ad%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%ef%bc%9a%e3%80%8c%e7%b9%81%e5%bf%99%e5%ba%a6%e8%a1%a8%e3%80%8d%e3%82%92/",
+        "awardLink": "https://kango-award.jp/archives/case/看護部働き方改革プロジェクト：「繁忙度表」を/",
         "chartConfig": {
             "id": "cr29-chart",
             "title": "年間時間外業務の削減効果",
@@ -123,7 +123,7 @@
             "impact": "一人あたりの月平均残業が10時間34分→<strong class=\"text-teal-700\">9時間33分に減少</strong>（年間3,648時間削減）。有給休暇取得率が48.6%→<strong class=\"text-teal-700\">55.3%に向上</strong>し、部署間格差も是正。"
         },
         "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2023/03/5.pdf",
-        "awardLink": "https://kango-award.jp/archives/case/%e3%82%b3%e3%83%ad%e3%83%8a%e7%a6%8d%e3%81%8c%e3%82%82%e3%81%9f%e3%82%89%e3%81%97%e3%81%9f%e3%83%aa%e3%83%aa%e3%83%bc%e3%83%95%e4%bd%93%e5%88%b6%e6%a7%8b%e7%af%89%e3%81%ae%e5%8a%b9%e6%9e%9c/",
+        "awardLink": "https://kango-award.jp/archives/case/コロナ禍がもたらしたリリーフ体制構築の効果/",
         "chartConfig": {
             "id": "cr31-chart",
             "title": "年間総時間外勤務の削減効果",
@@ -204,7 +204,7 @@
             "impact": "看護部全体の年休平均取得日数が<strong class=\"text-teal-700\">15.8日→17.6日に増加</strong>。部署間格差が是正。"
         },
         "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2023/03/7.pdf",
-        "awardLink": "https://kango-award.jp/archives/case/%e5%b9%b4%e4%bc%91%e5%8f%96%e5%be%97%e4%bf%83%e9%80%b2%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ae%e8%a8%88%e7%94%bb%e5%8a%a9%e5%8b%a4/"
+        "awardLink": "https://kango-award.jp/archives/case/年休取得促進のための計画助勤/"
     },
     "cr36": {
         "title": "色別カテゴリ表記による診療材料管理の標準化",
@@ -219,7 +219,7 @@
             "impact": "他部署の看護師が検尿コップを探す時間が<strong class=\"text-teal-700\">48秒→5秒に短縮</strong>。CV挿入の準備時間が<strong class=\"text-teal-700\">最大7分短縮</strong>され、引き出しに触れる回数も激減。"
         },
         "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2023/03/6.pdf",
-        "awardLink": "https://kango-award.jp/archives/case/%e3%82%b3%e3%83%ad%e3%83%8a%e7%a6%8d%e3%81%a0%e3%81%8b%e3%82%89%e3%81%a7%e3%81%8d%e3%81%9f%e3%80%80%e3%82%82%e3%81%86%e8%bf%b7%e3%82%8f%e3%81%aa%e3%81%84%ef%bc%81%e8%89%b2%e5%88%a5%e3%82%ab%e3%83%86/",
+        "awardLink": "https://kango-award.jp/archives/case/コロナ禍だからできた%e3%80%80もう迷わない！色別カテ/",
         "chartConfig": {
             "id": "cr36-chart",
             "title": "材料探索時間の短縮効果（他部署看護師）",
@@ -255,7 +255,7 @@
             "impact": "看護師の離職率が<strong class=\"text-teal-700\">10.3%→5.3%に低下</strong>。搬送業務時間を大幅に削減。"
         },
         "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2023/03/9.pdf",
-        "awardLink": "https://kango-award.jp/archives/case/%e6%90%ac%e9%80%81%e3%83%ro%e3%83%9c%e3%83%83%e3%83%88%e3%82%92%e5%b0%8e%e5%85%a5%e3%81%97%e3%81%9f%e7%9c%8b%e8%ad%b7%e5%b8%ab%e3%81%ae%e3%82%ab%e3%82%a4%e3%82%ゼ%e3%83%b3%e6%b4%bb%e5%8b%95%e2%80%95/"
+        "awardLink": "https://kango-award.jp/archives/case/搬送ロボットを導入した看護師のカイゼン活動―/"
     },
     "cr38": {
         "title": "独自開発アプリとチーム制による訪問看護のDX",
@@ -270,7 +270,7 @@
             "impact": "月平均時間外業務が<strong class=\"text-teal-700\">157.8h→55.7hに削減</strong>。スケジュール作成が<strong class=\"text-teal-700\">数日→2～3h/月に短縮</strong>。"
         },
         "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2023/03/8.pdf",
-        "awardLink": "https://kango-award.jp/archives/case/%e8%a8%aa%e5%95%8f%e7%9c%8b%e8%ad%b7%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e5%83%8d%e3%81%8d%e6%96%b9%e6%94%b9%e9%9d%a9%ef%bc%9aict%e6%b4%bb%e7%94%a8%e3%81%AB%e3%82%88%e3%82%8b%e7%9b%b4%e8%a1%8c/"
+        "awardLink": "https://kango-award.jp/archives/case/訪問看護における働き方改革：ict活用による直行/"
     },
     "cr39": {
         "title": "スマホアプリによる妊婦への情報提供と予約システム",
@@ -285,7 +285,7 @@
             "impact": "年間<strong class=\"text-teal-700\">150～180時間の業務時間削減</strong>。年間<strong class=\"text-teal-700\">約45万円の印刷費用削減</strong>。利用者アンケートで97.4%が「便利」と回答。"
         },
         "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2024/03/01_%E8%81%96%E8%B7%AF%E5%8A%A0%E5%9B%BD%E9%9A%9B%E7%97%85%E9%99%A2%EF%BC%88%E8%A9%B3%E7%B4%B0%E7%89%88%EF%BC%89.pdf",
-        "awardLink": "https://kango-award.jp/archives/case/%e3%82%b9%e3%83%9e%e3%83%bc%e3%83%88%e3%83%95%e3%82%a9%e3%83%b3%e3%82%92%e6%b4%bb%e7%94%a8%e3%81%97%e3%81%9f%e5%a6%8a%e5%a9%a6%e3%81%b8%e3%81%ae%e8%aa%ac%e6%98%8e%e3%81%a8%e6%83%85%e5%a0%b1%e6%8f%90/"
+        "awardLink": "https://kango-award.jp/archives/case/スマートフォンを活用した妊婦への説明と情報提/"
     },
     "cr40": {
         "title": "マセレーター導入による汚物処理改革と感染対策",
@@ -300,7 +300,7 @@
             "impact": "CDI発生数が<strong class=\"text-teal-700\">85件→31件に減少</strong>。1病棟あたり<strong class=\"text-teal-700\">210分/日の業務時間短縮</strong>（試算）。"
         },
         "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2024/03/02_%E4%BA%AC%E9%83%BD%E6%B8%88%E7%94%9F%E4%BC%9A%E7%97%85%E9%99%A2%EF%BC%88%E8%A9%B3%E7%B4%B0%E7%89%88%EF%BC%89.pdf",
-        "awardLink": "https://kango-award.jp/archives/case/%e6%84%9f%e6%9f%93%e7%ae%a1%e7%90%86%e8%aa%8d%e5%ae%9a%e7%9c%8b%e8%ad%b7%e5%b8%ab%e3%81%8c%e5%8f%96%e3%82%8a%e7%b5%84%e3%82%93%e3%81%a0%e3%80%8c%e6%b1%9a%e7%89%a9%e5%87%a6%e7%90%86%e6%94%b9%e9%9d%a9/"
+        "awardLink": "https://kango-award.jp/archives/case/感染管理認定看護師が取り組んだ「汚物処理改革」/"
     },
     "cr41": {
         "title": "マセレーター導入と動線設計による汚物処理の効率化",
@@ -315,7 +315,7 @@
             "impact": "汚物処理時間が<strong class=\"text-teal-700\">190分/日→26分/日に短縮（86%削減）</strong>。職員の満足度が向上。"
         },
         "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2024/03/03_%E5%B2%A1%E6%B3%A2%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2%EF%BC%88%E8%A9%B3%E7%B4%B0%E7%89%88%EF%BC%89.pdf",
-        "awardLink": "https://kango-award.jp/archives/case/%e9%81%a9%e5%88%87%e3%81%aa%e6%84%9f%e6%9f%93%e5%af%be%e7%ad%96%e3%81%a8%e6%b1%9a%e7%89%a9%e5%87%a6%e7%90%86%e6%a5%ad%e5%8b%99%e3%81%ae%e5%8a%b9%e7%8e%87%e5%8c%96/"
+        "awardLink": "https://kango-award.jp/archives/case/適切な感染対策と汚物処理業務の効率化/"
     },
     "cr42": {
         "title": "薬剤師とロボットによるタスク・シフト／シェア",
@@ -330,7 +330,7 @@
             "impact": "ミキシング時間が<strong class=\"text-teal-700\">124分/日/部署削減</strong>。夜間搬送時間が<strong class=\"text-teal-700\">41分/日削減</strong>。離職率が<strong class=\"text-teal-700\">10.3%→7.2%に低下</strong>。"
         },
         "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2024/03/%E3%83%88%E3%83%A8%E3%82%BF%E8%A8%98%E5%BF%B5%E7%97%85%E9%99%A2%EF%BC%88%E6%A6%82%E8%A6%81%E7%89%88%EF%BC%89311.pdf",
-        "awardLink": "https://kango-award.jp/archives/case/%e8%96%ac%e5%89%a4%e9%96%a2%e9%80%a3%e3%81%ae%e7%9c%8b%e8%ad%b7%e6%a5%ad%e5%8b%99%e3%82%92%e5%8a%b9%e7%8e%87%e5%8c%96%ef%bc%8d%e8%96%ac%e5%89%a4%e5%b8%ab%e3%81%a8%e7%9c%8b%e8%ad%b7%e5%b8%ab%e3%81%8c/"
+        "awardLink": "https://kango-award.jp/archives/case/薬剤関連の看護業務を効率化－薬剤師と看護師が/"
     },
     "cr43": {
         "title": "ICTツール開発によるコロナ禍の管理業務迅速化",
@@ -345,7 +345,7 @@
             "impact": "接触者特定時間が<strong class=\"text-teal-700\">半日→30分に短縮</strong>。検査結果確認が<strong class=\"text-teal-700\">60-90分→5分に短縮</strong>。看護師長の負担が軽減し時間外勤務が減少。"
         },
         "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2024/03/05_%E5%A4%A7%E9%98%AA%E5%B8%82%E7%AB%8B%E7%B7%8F%E5%90%88%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC0319.pdf",
-        "awardLink": "https://kango-award.jp/archives/case/%e5%8c%bb%e7%99%82%e6%83%85%e5%a0%b1%e9%83%a8%e3%81%a8%e3%81%ae%e9%80%a3%e6%90%ba%e3%81%8a%e3%82%88%e3%81%b3ict%e3%81%ae%e6%b4%活%e7%94%a8%e3%81%a7%e3%82%b3%e3%83%ad%e3%83%8a%e7%a6%8d%e3%81%ae/"
+        "awardLink": "https://kango-award.jp/archives/case/医療情報部との連携およびictの活活用でコロナ禍の/"
     },
     "cr44": {
         "title": "市と病院の連携による医療的ケア児支援体制の構築",
@@ -360,7 +360,7 @@
             "impact": "離職率が<strong class=\"text-teal-700\">56.3%→0%に改善</strong>。採用者数が増加。"
         },
         "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2024/03/06_%E5%B8%82%E7%AB%8B%E8%B1%8A%E4%B8%AD%E7%97%85%E9%99%A2%EF%BC%88%E8%A9%B3%E7%B4%B0%E7%89%88%EF%BC%89.pdf",
-        "awardLink": "https://kango-award.jp/archives/case/%e5%b8%82%e5%85%a8%e4%bd%93%e3%81%a7%e5%8f%96%e3%82%8a%e7%b5%84%e3%82%80%e5%8c%bb%e7%99%82%e7%9a%84%e3%82%b1%e3%82%a2%e5%85%90%e3%81%b8%e3%81%ae%e6%94%af%e6%8f%b4%ef%bc%8d%e5%b8%82%e7%ab%8b%e7%97%85/"
+        "awardLink": "https://kango-award.jp/archives/case/市全体で取り組む医療的ケア児への支援－市立病/"
     },
     "cr45": {
         "title": "職員主体でのICT運用改善による生産性向上",
@@ -374,8 +374,8 @@
             "method": "<strong class=\"text-sky-800\">職員主体の委員会活動</strong>によるICT運用改善と追加導入。",
             "impact": "ICTによる業務効率化実感率が<strong class=\"text-teal-700\">66%→96%に向上</strong>。事業所間格差が<strong class=\"text-teal-700\">59pt→14ptに縮小</strong>。"
         },
-        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2024/03/07_%E5%BA%83%E5%B3%B6%E7%9C%8C%E7%9C%8B%E8%ad%b7%E5%8D%94%E4%BC%9A%E8%A8%AA%E5%95%8F%E7%9C%8B%E8%ad%b7%E3%82%B9%E3%83%86%E3%83%BC%E3%82%b7%e3%83%a7%e3%83%b30319.pdf",
-        "awardLink": "https://kango-award.jp/archives/case/%e3%80%8c%e4%bd%bf%e3%81%88%e3%82%8b%e3%80%8dict%e3%81%ae%e9%81%8b%e7%94%a8%e3%81%a8%e3%80%8c%e6%96%b0%e3%81%9f%e3%81%aa%e3%80%8dict%e3%81%ae%e5%b0%8e%e5%85%a5%e3%81%a7%e8%a8%aa%e5%95%8f%e7%9c%8b/"
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2024/03/07_%E5%BA%83%E5%B3%B6%E7%9C%8C%E7%9C%8B%E8%ad%b7%E5%8D%94%E4%BC%9A%E8%A8%AA%E5%95%8F%E7%9C%8B%E8%ad%b7%E3%82%B9%E3%83%86%E3%83%BC%E3%82%b7%E3%83%a7%E3%83%b30319.pdf",
+        "awardLink": "https://kango-award.jp/archives/case/「使える」ictの運用と「新たな」ictの導入で訪問看/"
     },
     "cr46": {
         "title": "情報連携ソリューション(IWB)による部署間連携",
@@ -419,7 +419,7 @@
             "method": "<strong class=\"text-lime-800\">無線インカムの導入</strong>によるリアルタイムな通信環境の整備。",
             "impact": "リーダー看護師のスタッフ探索時間が<strong class=\"text-teal-700\">32分/日削減</strong>。移動距離が<strong class=\"text-teal-700\">2.8km/日削減</strong>。自発的な協力行動が促進され、療養環境が静粛化。"
         },
-        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2024/03/10_%E8%87%AA%E6%B2%BB%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E9%99%84%E5%b1%9e%e3%81%95%e3%81%84%e3%81%9F%e3%81%be%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E8%A9%B3%E7%B4%B0%E7%89%88%EF%BC%89.pdf",
+        "pdfLink": "https://kango-award.jp/nurse-cms/wp-content/uploads/2024/03/10_%E8%87%AA%E6%B2%BB%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6%E9%99%84%E5%b1%9e%e3%81%95%E3%81%84%e3%81%9F%e3%81%be%E5%8C%BB%E7%99%82%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E8%A9%B3%E7%B4%B0%E7%89%88%EF%BC%89.pdf",
         "awardLink": "https://kango-award.jp/archives/case/業務量調査の実施から見えた業務負担とその改善/"
     }
 }
